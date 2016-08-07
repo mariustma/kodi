@@ -1,86 +1,87 @@
-Acasa
+#EXTM3U
+#EXTINF:0,Acasa
 sop://broker.sopcast.com:3912/149256
-Acasa Gold
+#EXTINF:0,Acasa Gold
 sop://broker.sopcast.com:3912/253471
-Antena 1
+#EXTINF:0,Antena 1
 sop://broker.sopcast.com:3912/149257
-Antena 1
+#EXTINF:0,Antena 1
 sop://broker.sopcast.com:3912/148083
-Antena Stars
+#EXTINF:0,Antena Stars
 sop://broker.sopcast.com:3912/148255
-Antena3
+#EXTINF:0,Antena3
 sop://broker.sopcast.com:3912/148084
-Axn White
+#EXTINF:0,Axn White
 sop://broker.sopcast.com:3912/149262
-B1
+#EXTINF:0,B1
 sop://151.80.76.190:3912/148087
-Bbc Earth
+#EXTINF:0,Bbc Earth
 sop://broker.sopcast.com:3912/148257
-Boomerang
+#EXTINF:0,Boomerang
 sop://broker.sopcast.com:3912/149264
-Canal + Hd Liga
+#EXTINF:0,Canal + Hd Liga
 sop://broker.sopcast.com:3912/258921
-Cartoon Network
+#EXTINF:0,Cartoon Network
 sop://broker.sopcast.com:3912/148254
-Digi Film
+#EXTINF:0,Digi Film
 sop://broker.sopcast.com:3912/149253
-Digisport 1
+#EXTINF:0,Digisport 1
 sop://broker.sopcast.com:3912/148886
-Discovery Channel
+#EXTINF:0,Discovery Channel
 sop://broker.sopcast.com:3912/256241
-Discovery Id
+#EXTINF:0,Discovery Id
 sop://broker.sopcast.com:3912/256244
-Discovery Science
+#EXTINF:0,Discovery Science
 sop://broker.sopcast.com:3912/256243
-Disney Channel
+#EXTINF:0,Disney Channel
 sop://broker.sopcast.com:3912/253031 
-Disney Junior
+#EXTINF:0,Disney Junior
 sop://broker.sopcast.com:3912/256239
-Diva
+#EXTINF:0,Diva
 sop://151.80.76.190:3912/253034
-Duck Tv
+#EXTINF:0,Duck Tv
 sop://broker.sopcast.com:3912/148259
-Euforia
+#EXTINF:0,Euforia
 sop://broker.sopcast.com:3912/253473
-Filmcafe
+#EXTINF:0,Filmcafe
 sop://broker.sopcast.com:3912/256238
-Fox Sports 2
+#EXTINF:0,Fox Sports 2
 sop://124.232.150.188:3920/5730
-Hbo
+#EXTINF:0,Hbo
 sop://broker.sopcast.com:3912/259497
-Kanal D
+#EXTINF:0,Kanal D
 sop://broker.sopcast.com:3912/149258
-Megamax
+#EXTINF:0,Megamax
 sop://broker.sopcast.com:3912/256328
-Minimax
+#EXTINF:0,Minimax
 sop://broker.sopcast.com:3912/148263
-Mpfm
+#EXTINF:0,Mpfm
 sop://broker.sopcast.com:3912/148261
-Paramount
+#EXTINF:0,Paramount
 sop://broker.sopcast.com:3912/253033
-Prima
+#EXTINF:0,Prima
 sop://151.80.76.190:3912/148086
-Prima Tv
+#EXTINF:0,Prima Tv
 sop://broker.sopcast.com:3912/148086
-Pro Cinema
+#EXTINF:0,Pro Cinema
 sop://broker.sopcast.com:3912/148249
-Protv
+#EXTINF:0,Protv
 sop://broker.sopcast.com:3912/149252
-Protv
+#EXTINF:0,Protv
 sop://broker.sopcast.com:3912/151380
-Romania Tv
+#EXTINF:0,Romania Tv
 sop://broker.sopcast.com:3912/148258
-Tlc
+#EXTINF:0,Tlc
 sop://broker.sopcast.com:3912/148256
-Travel Tv
+#EXTINF:0,Travel Tv
 sop://broker.sopcast.com:3912/148885
-Tv Paprika
+#EXTINF:0,Tv Paprika
 sop://broker.sopcast.com:3912/148881
-Tv1000
+#EXTINF:0,Tv1000
 sop://broker.sopcast.com:3912/256337
-Tvr 1
+#EXTINF:0,Tvr 1
 sop://broker.sopcast.com:3912/148085
-Tvr 1
+#EXTINF:0,Tvr 1
 sop://151.80.76.190:3912/148085
-Zu Tv
+#EXTINF:0,Zu Tv
 sop://broker.sopcast.com:3912/148252
