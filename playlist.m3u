@@ -1,120 +1,217 @@
-Acasa
-sop://broker.sopcast.com:3912/149256
-Acasa Gold
-sop://broker.sopcast.com:3912/253471
-Antena 1
-sop://broker.sopcast.com:3912/149257
-Antena Stars
-sop://broker.sopcast.com:3912/148255
-Antena3
-sop://broker.sopcast.com:3912/148084
-Axn
-sop://broker.sopcast.com:3912/253035
-Axn Black
-sop://broker.sopcast.com:3912/149261
-Axn Spin
-sop://broker.sopcast.com:3912/149263
-Axn White
-sop://broker.sopcast.com:3912/256240
-B1
-sop://broker.sopcast.com:3912/148087
-B1
-sop://151.80.76.190:3912/148087
-Bbc Earth
-sop://broker.sopcast.com:3912/148257
-Boomerang
-sop://broker.sopcast.com:3912/149264
-Canal +
-sop://broker.sopcast.com:3912/258923
-Canal + Hd Liga
-sop://broker.sopcast.com:3912/258921
-Cartoon Network
-sop://broker.sopcast.com:3912/148254
-Cinemax
-sop://broker.sopcast.com:3912/148882
-Digi Film
-sop://broker.sopcast.com:3912/149253
-Digi World
-sop://broker.sopcast.com:3912/148260
-Discovery Channel
-sop://broker.sopcast.com:3912/256241
-Discovery Id
-sop://broker.sopcast.com:3912/256244
-Discovery Science
-sop://broker.sopcast.com:3912/256243
-Disney Channel
-sop://broker.sopcast.com:3912/253031
-Disney Channel
-sop://151.80.76.190:3912/253031
-Diva
-sop://151.80.76.190:3912/253034
-Diva Universal
-sop://broker.sopcast.com:3912/253034
-Dolcesport 1
-sop://broker.sopcast.com:3912/256341
-Duck Tv
-sop://broker.sopcast.com:3912/148259
-Euforia
-sop://broker.sopcast.com:3912/253473
-Filmbox
-sop://broker.sopcast.com:3912/148981
-Filmcafe
-sop://broker.sopcast.com:3912/256238
-Fox Sports 2
-sop://124.232.150.188:3920/5730
-Hbo
-sop://broker.sopcast.com:3912/259497
-Hbo Comedy
-sop://broker.sopcast.com:3912/149259
-History Channel
-sop://broker.sopcast.com:3912/253032
-Kanal D
-sop://broker.sopcast.com:3912/149258
-Kiss Tv
-sop://broker.sopcast.com:3912/148883
-Look Tv
-sop://broker.sopcast.com:3912/148262
-Megamax
-sop://broker.sopcast.com:3912/256328
-Minimax
-sop://broker.sopcast.com:3912/148263
-Mpfm
-sop://broker.sopcast.com:3912/148261
-Nat Geo Wild
-sop://broker.sopcast.com:3912/253037
-National
-sop://151.80.76.190:3912/253030
-National Geographic
-sop://broker.sopcast.com:3912/148248
-National Tv
-sop://broker.sopcast.com:3912/253030
-Nick Jr
-sop://broker.sopcast.com:3912/149266
-Nickelodeon
-sop://broker.sopcast.com:3912/253472
-Paramount
-sop://broker.sopcast.com:3912/253033
-Prima
-sop://151.80.76.190:3912/148086
-Prima Tv
-sop://broker.sopcast.com:3912/148086
-Pro Cinema
-sop://broker.sopcast.com:3912/148249
-Protv
-sop://broker.sopcast.com:3912/149252
-Realitatea Tv
-sop://broker.sopcast.com:3912/253036
-Romania Tv
-sop://broker.sopcast.com:3912/148258
-Tlc
-sop://broker.sopcast.com:3912/148256
-Tv Paprika
-sop://broker.sopcast.com:3912/148881
-Tv1000
-sop://broker.sopcast.com:3912/256337
-Tvr 1
-sop://broker.sopcast.com:3912/148085
-Tvr 1
-sop://151.80.76.190:3912/148085
-Zu Tv
-sop://broker.sopcast.com:3912/148252
+#EXTM3U
+#EXTINF:0,RO: Antena 1
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/597.ts
+#EXTINF:0,RO: Antena 1 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4189.ts
+#EXTINF:0,RO: Antena 1 S3
+http://149.202.195.182:2500/live/hannes/hannes/3139.ts
+#EXTINF:0,RO: Antena 3
+http://149.202.195.182:2500/live/hannes/hannes/3138.ts
+#EXTINF:0,RO: Antena Stars
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/599.ts
+#EXTINF:0,RO: Antena Stars S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4190.ts
+#EXTINF:0,RO: B1 Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/329.ts
+#EXTINF:0,RO: B1 Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4192.ts
+#EXTINF:0,RO: Cinemax
+http://149.202.195.182:2500/live/hannes/hannes/3115.ts
+#EXTINF:0,RO: Cinemax 2
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/602.ts
+#EXTINF:0,RO: Cinemax 2 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4200.ts
+#EXTINF:0,RO: Cinemax 2 S3
+http://149.202.195.182:2500/live/hannes/hannes/3116.ts
+#EXTINF:0,RO: Crime & Investigation
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/894.ts
+#EXTINF:0,RO: Crime & Investigation S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4230.ts
+#EXTINF:0,RO: Digi 24
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/328.ts
+#EXTINF:0,RO: Digi 24 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4186.ts
+#EXTINF:0,RO: Digi Animal World
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/350.ts
+#EXTINF:0,RO: Digi Animal World S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4214.ts
+#EXTINF:0,RO: Digi Film
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/589.ts
+#EXTINF:0,RO: Digi Film S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4201.ts
+#EXTINF:0,RO: Digi Life
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/348.ts
+#EXTINF:0,RO: Digi Life S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4212.ts
+#EXTINF:0,RO: Digi Sport 1
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/354.ts
+#EXTINF:0,RO: Digi Sport 1 HD
+http://149.202.195.182:2500/live/hannes/hannes/2438.ts
+#EXTINF:0,RO: Digi Sport 1 S2
+http://149.202.195.182:2500/live/hannes/hannes/2722.ts
+#EXTINF:0,RO: Digi Sport 1 S3
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4226.ts
+#EXTINF:0,RO: Digi Sport 2
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/355.ts
+#EXTINF:0,RO: Digi Sport 2 S2
+http://149.202.195.182:2500/live/hannes/hannes/2723.ts
+#EXTINF:0,RO: Digi Sport 2 S3
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4227.ts
+#EXTINF:0,RO: Digi Sport 3
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/356.ts
+#EXTINF:0,RO: Digi Sport 3 S2
+http://149.202.195.182:2500/live/hannes/hannes/2724.ts
+#EXTINF:0,RO: Digi Sport 3 S3
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4228.ts
+#EXTINF:0,RO: Digi Sport 4
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/357.ts
+#EXTINF:0,RO: Digi Sport 4 S2
+http://149.202.195.182:2500/live/hannes/hannes/2725.ts
+#EXTINF:0,RO: Digi Sport 4 S3
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4229.ts
+#EXTINF:0,RO: Digi World
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/347.ts
+#EXTINF:0,RO: Digi World S2
+http://149.202.195.182:2500/live/hannes/hannes/2726.ts
+#EXTINF:0,RO: Digi World S3
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4213.ts
+#EXTINF:0,RO: Disney Junior
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/346.ts
+#EXTINF:0,RO: Disney Junior S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4208.ts
+#EXTINF:0,RO: Eurosport
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/496.ts
+#EXTINF:0,RO: Eurosport 2
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/345.ts
+#EXTINF:0,RO: Eurosport 2 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4223.ts
+#EXTINF:0,RO: Eurosport S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4222.ts
+#EXTINF:0,RO: Favorit Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/333.ts
+#EXTINF:0,RO: Favorit Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4221.ts
+#EXTINF:0,RO: Fishing & Hunting
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/601.ts
+#EXTINF:0,RO: Fishing & Hunting S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4215.ts
+#EXTINF:0,RO: Happy Channel
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/600.ts
+#EXTINF:0,RO: Happy Channel S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4193.ts
+#EXTINF:0,RO: HBO
+http://149.202.195.182:2500/live/hannes/hannes/3120.ts
+#EXTINF:0,RO: HBO 2
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/603.ts
+#EXTINF:0,RO: HBO 2 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4202.ts
+#EXTINF:0,RO: HBO 3
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/495.ts
+#EXTINF:0,RO: HBO 3 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4203.ts
+#EXTINF:0,RO: HBO 3 S3
+http://149.202.195.182:2500/live/hannes/hannes/3121.ts
+#EXTINF:0,RO: History Channel
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/343.ts
+#EXTINF:0,RO: History Channel S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4216.ts
+#EXTINF:0,RO: History Channel S3
+http://149.202.195.182:2500/live/hannes/hannes/3119.ts
+#EXTINF:0,RO: Kanal D
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/324.ts
+#EXTINF:0,RO: Kanal D S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4188.ts
+#EXTINF:0,RO: KISS TV
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/596.ts
+#EXTINF:0,RO: KISS TV S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4206.ts
+#EXTINF:0,RO: Look Plus
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/592.ts
+#EXTINF:0,RO: Look Plus S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4225.ts
+#EXTINF:0,RO: Look Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/591.ts
+#EXTINF:0,RO: Look Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4224.ts
+#EXTINF:0,RO: Megamax
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/342.ts
+#EXTINF:0,RO: Megamax S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4211.ts
+#EXTINF:0,RO: Minimax
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/341.ts
+#EXTINF:0,RO: Minimax S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4210.ts
+#EXTINF:0,RO: Music Channe hu
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/595.ts
+#EXTINF:0,RO: Music Channe hu S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4207.ts
+#EXTINF:0,RO: Nat Geo
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/339.ts
+#EXTINF:0,RO: Nat Geo S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4217.ts
+#EXTINF:0,RO: Nat Geo Wild
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/340.ts
+#EXTINF:0,RO: Nat Geo Wild S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4218.ts
+#EXTINF:0,RO: National TV
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/594.ts
+#EXTINF:0,RO: National TV S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4197.ts
+#EXTINF:0,RO: Neptun Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/590.ts
+#EXTINF:0,RO: Neptun Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4198.ts
+#EXTINF:0,RO: Nickelodeon
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/604.ts
+#EXTINF:0,RO: Nickelodeon S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4290.ts
+#EXTINF:0,RO: Prima Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/327.ts
+#EXTINF:0,RO: Prima Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4191.ts
+#EXTINF:0,RO: ProCinema
+http://149.202.195.182:2500/live/hannes/hannes/3143.ts
+#EXTINF:0,RO: ProTV
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/598.ts
+#EXTINF:0,RO: ProTV INT
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4196.ts
+#EXTINF:0,RO: ProTV S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4187.ts
+#EXTINF:0,RO: ProTV S3
+http://149.202.195.182:2500/live/hannes/hannes/3142.ts
+#EXTINF:0,RO: Publika Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/896.ts
+#EXTINF:0,RO: Realitatea Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/331.ts
+#EXTINF:0,RO: Realitatea Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4195.ts
+#EXTINF:0,RO: Romania Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/330.ts
+#EXTINF:0,RO: Romania Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4194.ts
+#EXTINF:0,RO: Taraf Tv
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/593.ts
+#EXTINF:0,RO: Taraf Tv S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4205.ts
+#EXTINF:0,RO: TRAVEL CH
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4219.ts
+#EXTINF:0,RO: TV1000
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/334.ts
+#EXTINF:0,RO: TV1000 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4204.ts
+#EXTINF:0,RO: TV1000 S3
+http://149.202.195.182:2500/live/hannes/hannes/3123.ts
+#EXTINF:0,RO: TVR 2
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/323.ts
+#EXTINF:0,RO: TVR 2 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4185.ts
+#EXTINF:0,RO: Viasat Nature
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/332.ts
+#EXTINF:0,RO: Viasat Nature S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4220.ts
+#EXTINF:0,RO: VOX TV
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/335.ts
+#EXTINF:0,RO:TVR 1
+http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/322.ts
+#EXTINF:0,RO:TVR 1 S2
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/4184.ts
