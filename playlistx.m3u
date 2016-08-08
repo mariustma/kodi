@@ -1,4 +1,66 @@
 #EXTM3U
+#EXTINF:-1,ADULT=CANDY+18
+http://178.33.226.36:8000/live/olsi/olsi/804.ts
+#EXTINF:-1,ADULT=HOTCLUB1HD[18]
+http://178.33.226.36:8000/live/olsi/olsi/912.ts
+#EXTINF:-1,ADULT=HOTCLUB2[18]
+http://178.33.226.36:8000/live/olsi/olsi/913.ts
+#EXTINF:-1,ADULT=HOTCLUB3[18]
+http://178.33.226.36:8000/live/olsi/olsi/914.ts
+#EXTINF:-1,ADULT=HOTCLUB4[18]
+http://178.33.226.36:8000/live/olsi/olsi/915.ts
+#EXTINF:-1,ADULT=HOTCLUB5[18]
+http://178.33.226.36:8000/live/olsi/olsi/916.ts
+#EXTINF:-1,ADULT=HOTCLUB6[18]
+http://178.33.226.36:8000/live/olsi/olsi/917.ts
+#EXTINF:-1,ADULT=HOTCLUB7[18]
+http://178.33.226.36:8000/live/olsi/olsi/918.ts
+#EXTINF:-1,ADULT=HOTCLUB8[18]
+http://178.33.226.36:8000/live/olsi/olsi/919.ts
+#EXTINF:-1,ADULT=HOTCLUB9[18]
+http://178.33.226.36:8000/live/olsi/olsi/920.ts
+#EXTINF:-1,ADULT=HOTCLUB10[18]
+http://178.33.226.36:8000/live/olsi/olsi/921.ts
+#EXTINF:-1,ADULT=VOD1[18]
+http://178.33.226.36:8000/live/olsi/olsi/783.ts
+#EXTINF:-1,ADULT=VOOD2[18]
+http://178.33.226.36:8000/live/olsi/olsi/784.ts
+#EXTINF:-1,ADULT=VOD3[18]
+http://178.33.226.36:8000/live/olsi/olsi/785.ts
+#EXTINF:-1,ADULT=VOD4[18]
+http://178.33.226.36:8000/live/olsi/olsi/786.ts
+#EXTINF:-1,ADULT=VOD5[18]
+http://178.33.226.36:8000/live/olsi/olsi/787.ts
+#EXTINF:-1,ADULT=VOD6[18]
+http://178.33.226.36:8000/live/olsi/olsi/788.ts
+#EXTINF:-1,ADULT=MIAMI_TV
+http://178.33.226.36:8000/live/olsi/olsi/790.ts
+#EXTINF:-1,ADULT=SEXVIEW
+http://178.33.226.36:8000/live/olsi/olsi/791.ts
+#EXTINF:-1,ADULT=DPSTAR1
+http://178.33.226.36:8000/live/olsi/olsi/792.ts
+#EXTINF:-1,ADULT=DPSTAR2
+http://178.33.226.36:8000/live/olsi/olsi/793.ts
+#EXTINF:-1,ADULT=DPSTAR3
+http://178.33.226.36:8000/live/olsi/olsi/794.ts
+#EXTINF:-1,ADULT=EROTIC_SHOWS3
+http://178.33.226.36:8000/live/olsi/olsi/795.ts
+#EXTINF:-1,ADULT=EROTIC_SHOWS2
+http://178.33.226.36:8000/live/olsi/olsi/796.ts
+#EXTINF:-1,ADULT=EROTIC_MOVIES
+http://178.33.226.36:8000/live/olsi/olsi/797.ts
+#EXTINF:-1,ADULT=Naked_Kitchen
+http://178.33.226.36:8000/live/olsi/olsi/798.ts
+#EXTINF:-1,ADULT=NAKED_NEWS
+http://178.33.226.36:8000/live/olsi/olsi/799.ts
+#EXTINF:-1,ADULT=YESILCAM_EROTIC3
+http://178.33.226.36:8000/live/olsi/olsi/800.ts
+#EXTINF:-1,ADULT=YESILCAM_EROTIC2
+http://178.33.226.36:8000/live/olsi/olsi/801.ts
+#EXTINF:-1,ADULT=YESILCAM_EROTIC1
+http://178.33.226.36:8000/live/olsi/olsi/802.ts
+#EXTINF:-1,ADULT=EROTIC_SHOWS1
+http://178.33.226.36:8000/live/olsi/olsi/803.ts
 #EXTINF:-1,XX: hot
 http://s1.ukhdtv.com:7860/live/waq/waq/1469.ts
 #EXTINF:-1,XX: venus
@@ -65,6 +127,106 @@ http://s1.ukhdtv.com:7860/live/waq/waq/732.ts
 http://s1.ukhdtv.com:7860/live/waq/waq/736.ts
 #EXTINF:-1,XX: franch lover tv
 http://s1.ukhdtv.com:7860/live/waq/waq/738.ts
+#EXTINF:-1,AD_Hot_Club_1_HD
+http://globe2.midomed.com:80/live/polo/polo/1991.ts
+#EXTINF:-1,AD_Hot_Club_2_HD
+http://globe2.midomed.com:80/live/polo/polo/1992.ts
+#EXTINF:-1,AD_Hot_Club_3_HD
+http://globe2.midomed.com:80/live/polo/polo/1993.ts
+#EXTINF:-1,AD_Hot_Club_4_HD
+http://globe2.midomed.com:80/live/polo/polo/1994.ts
+#EXTINF:-1,AD_Hot_Club_5_HD
+http://globe2.midomed.com:80/live/polo/polo/1995.ts
+#EXTINF:-1,AD_Hot_Club_6_HD
+http://globe2.midomed.com:80/live/polo/polo/1996.ts
+#EXTINF:-1,AD_Hot_Club_7_HD
+http://globe2.midomed.com:80/live/polo/polo/1997.ts
+#EXTINF:-1,AD_Hot_Club_8_HD
+http://globe2.midomed.com:80/live/polo/polo/1998.ts
+#EXTINF:-1,AD_Hot_Club_9_HD
+http://globe2.midomed.com:80/live/polo/polo/1999.ts
+#EXTINF:-1,AD_Hot_Club_10_HD
+http://globe2.midomed.com:80/live/polo/polo/2000.ts
+#EXTINF:-1,Adult;XXX 1
+http://globe2.midomed.com:80/live/polo/polo/2197.ts
+#EXTINF:-1,Adult;XXX 2
+http://globe2.midomed.com:80/live/polo/polo/2198.ts
+#EXTINF:-1,Adult;XXX 3
+http://globe2.midomed.com:80/live/polo/polo/2199.ts
+#EXTINF:-1,Adult;XXX 4
+http://globe2.midomed.com:80/live/polo/polo/2200.ts
+#EXTINF:-1,Adult;XXX 5
+http://globe2.midomed.com:80/live/polo/polo/2201.ts
+#EXTINF:-1,Adult;XXX 6
+http://globe2.midomed.com:80/live/polo/polo/2202.ts
+#EXTINF:-1,Adult;XXX 7
+http://globe2.midomed.com:80/live/polo/polo/2203.ts
+#EXTINF:-1,Adult;XXX 8
+http://globe2.midomed.com:80/live/polo/polo/2204.ts
+#EXTINF:-1,Adult;XXX 9
+http://globe2.midomed.com:80/live/polo/polo/2205.ts
+#EXTINF:-1,Adult;XXX 10
+http://globe2.midomed.com:80/live/polo/polo/2206.ts
+#EXTINF:-1,Adult;XXX 11
+http://globe2.midomed.com:80/live/polo/polo/2207.ts
+#EXTINF:-1,Adult;XXX 12
+http://globe2.midomed.com:80/live/polo/polo/2208.ts
+#EXTINF:-1,Adult;XXX 13
+http://globe2.midomed.com:80/live/polo/polo/2209.ts
+#EXTINF:-1,Adult;XXX 14
+http://globe2.midomed.com:80/live/polo/polo/2210.ts
+#EXTINF:-1,Adult;XXX 15
+http://globe2.midomed.com:80/live/polo/polo/2211.ts
+#EXTINF:-1,Adult;XXX 16
+http://globe2.midomed.com:80/live/polo/polo/2212.ts
+#EXTINF:-1,Adult;XXX 17
+http://globe2.midomed.com:80/live/polo/polo/2213.ts
+#EXTINF:-1,Adult;XXX 18
+http://globe2.midomed.com:80/live/polo/polo/2214.ts
+#EXTINF:-1,Adult;XXX 19
+http://globe2.midomed.com:80/live/polo/polo/2215.ts
+#EXTINF:-1,Adult;XXX 20
+http://globe2.midomed.com:80/live/polo/polo/2216.ts
+#EXTINF:-1,T Girls Tv
+http://globe2.midomed.com:80/live/polo/polo/2945.ts
+#EXTINF:-1,Sesso Senso Tv
+http://globe2.midomed.com:80/live/polo/polo/2946.ts
+#EXTINF:-1,Sct HD
+http://globe2.midomed.com:80/live/polo/polo/2947.ts
+#EXTINF:-1,RedLight HD
+http://globe2.midomed.com:80/live/polo/polo/2948.ts
+#EXTINF:-1,Hustler HD
+http://globe2.midomed.com:80/live/polo/polo/2949.ts
+#EXTINF:-1,Exotica Tv
+http://globe2.midomed.com:80/live/polo/polo/2950.ts
+#EXTINF:-1,Dorcel
+http://globe2.midomed.com:80/live/polo/polo/2951.ts
+#EXTINF:-1,Hot
+http://globe2.midomed.com:80/live/polo/polo/2952.ts
+#EXTINF:-1,CentoxCento Tv
+http://globe2.midomed.com:80/live/polo/polo/2953.ts
+#EXTINF:-1,CentoXCento TV
+http://iptv-world.ddns.me:8000/live/pinola/pinola/381.ts
+#EXTINF:-1,Sexto Senso
+http://iptv-world.ddns.me:8000/live/pinola/pinola/383.ts
+#EXTINF:-1,SCT
+http://iptv-world.ddns.me:8000/live/pinola/pinola/384.ts
+#EXTINF:-1,Satisfaction HD
+http://iptv-world.ddns.me:8000/live/pinola/pinola/367.ts
+#EXTINF:-1,Pinko Tv
+http://iptv-world.ddns.me:8000/live/pinola/pinola/382.ts
+#EXTINF:-1,Redlight HD
+http://iptv-world.ddns.me:8000/live/pinola/pinola/364.ts
+#EXTINF:-1,HotClub 1
+http://iptv-world.ddns.me:8000/live/pinola/pinola/356.ts
+#EXTINF:-1,HotClub 2
+http://iptv-world.ddns.me:8000/live/pinola/pinola/357.ts
+#EXTINF:-1,HotClub 3
+http://iptv-world.ddns.me:8000/live/pinola/pinola/358.ts
+#EXTINF:-1,HotClub 4
+http://iptv-world.ddns.me:8000/live/pinola/pinola/360.ts
+#EXTINF:-1,HotClub 5
+http://iptv-world.ddns.me:8000/live/pinola/pinola/362.ts
 #EXTINF:-1,AD_Hot_Club_1_HD
 http://globe2.midomed.com:80/live/claudia/claudia/1991.ts
 #EXTINF:-1,AD_Hot_Club_2_HD
