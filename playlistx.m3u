@@ -22,8 +22,6 @@ http://46.99.163.138:9981/stream/channelid/1542022884?ticket=EC9CEB44DB0D8111C24
 http://46.99.163.138:9981/stream/channelid/1915939100?ticket=CA451ED82EDA1A9E34582BC26B3C51BEF30E5613&profile=pass
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-
 #EXTINF:-1,18 4K POR 38
 http://iptvportal.online:2500/live/zakir/zakir/2059.ts
 #EXTINF:-1,18 4K POR 39
