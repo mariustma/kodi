@@ -47,6 +47,10 @@ http://iptvportal.online:2500/live/mana/mana/2472.ts
 http://62.76.26.81:8081/candy/candyman07/playlist.m3u8
 #EXTINF:-1,Candy Man
 http://62.76.26.81:8081/candy/candy07/playlist.m3u8
+#EXTINF:-1,ADULT=Naked_Kitchen
+http://178.33.226.36:8000/live/olsi/olsi/798.ts
+#EXTINF:-1,ADULT=NAKED_NEWS
+http://178.33.226.36:8000/live/olsi/olsi/799.ts
 
 #EXTINF:-1 passiexxx
 http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
