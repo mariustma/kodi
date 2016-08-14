@@ -16,11 +16,6 @@ http://37.195.219.210:81/udp/239.1.6.36:1234
 http://37.195.219.210:81/udp/239.1.6.39:1234
 #EXTINF:-1,Brazzers TV
 http://37.195.219.210:81/udp/239.1.6.40:1234
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
 #EXTINF:-1 tvg-id="e466e9db53830d13c7ebfb3aae9ce223",Bunga Bunga
 http://46.99.163.138:9981/stream/channelid/1542022884?ticket=EC9CEB44DB0D8111C24122FA1431BAB73841091F&profile=pass
 #EXTINF:-1 tvg-id="1ce9327236b59d9c91306bce9369f853",Bizzare
