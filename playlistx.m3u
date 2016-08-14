@@ -25,7 +25,5 @@ http://37.195.219.210:81/udp/239.1.6.40:1234
 http://46.99.163.138:9981/stream/channelid/1542022884?ticket=EC9CEB44DB0D8111C24122FA1431BAB73841091F&profile=pass
 #EXTINF:-1 tvg-id="1ce9327236b59d9c91306bce9369f853",Bizzare
 http://46.99.163.138:9981/stream/channelid/1915939100?ticket=CA451ED82EDA1A9E34582BC26B3C51BEF30E5613&profile=pass
-#EXTINF:-1 tvg-id="0b6472155df9f7596c0e0d69a55e8afd",Bizarre (alternative)
-http://46.99.163.138:9981/stream/channelid/359818251?ticket=CEA61D87D22B9467F917186138A61894A6DD71BA&profile=pass
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
