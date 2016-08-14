@@ -64,3 +64,24 @@ http://wowza1.videos.movile.com:8080/live/smil:*****o_1.smil/chunklist-b1100000.
 http://wowza1.videos.movile.com:8080/live/smil:*****opremium_1.smil/chunklist-b1100000.m3u8
 #EXTINF:-1 Brasileirinhas TV
 http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist.m3u8
+
+#EXTINF:-1 DORCEL HD 720p
+http://cdn-07.sdn.si/dorcelhd/dorcelhd.isml/dorcelhd-video=4500000-audio101=128000.m3u8
+#EXTINF:-1 HUSTLER HD 720p
+http://cdn-07.sdn.si/hustlerhd/hustlerhd.isml/hustlerhd-video=4500000-audio101=128000.m3u8
+#EXTINF:-1 SCT
+http://cdn-07.sdn.si/sct/sct.isml/sct-video=2500000-audio101=128000.m3u8
+#EXTINF:-1 CENTOXCENTO
+http://cdn-07.sdn.si/priveetv/priveetv.isml/priveetv-video=2500000-audio101=128000.m3u8
+#EXTINF:-1 FRENCH LOVER TV
+http://cdn-07.sdn.si/frenchlovertv/frenchlovertv.isml/frenchlovertv-video=2500000-audio101=128000.m3u8
+#EXTINF:-1 BRAZZERS TV
+http://cdn-07.sdn.si/brazzerstv/brazzerstv.isml/brazzerstv-video=2500000-audio101=128000.m3u8
+#EXTINF:-1 ERXXX HD 720p
+http://cdn-07.sdn.si/eroxxxhd/eroxxxhd.isml/eroxxxhd-video=4500000-audio101=128000.m3u8
+#EXTINF:-1 PLAYBOY TV
+http://194.213.102.75:1234/udp/224.1.1.98:6000
+#EXTINF:-1 XXL
+http://194.213.102.75:1234/udp/224.1.1.99:6000
+#EXTINF:-1 BLUE HUSTLER
+http://194.213.102.75:1234/udp/224.1.1.95:6000
