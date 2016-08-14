@@ -23,7 +23,7 @@ http://46.99.163.138:9981/stream/channelid/1542022884?ticket=EC9CEB44DB0D8111C24
 http://46.99.163.138:9981/stream/channelid/1915939100?ticket=CA451ED82EDA1A9E34582BC26B3C51BEF30E5613&profile=pass
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,SCT HD
+#EXTINF:-1,Fascinating
 http://198.16.76.122:8000/164/BJDRTISRYHMI48CA
 #EXTINF:-1,SCT
 http://198.16.76.122:8000/167/BJDRTISRYHMI48CA
@@ -41,11 +41,9 @@ http://198.16.76.122:8000/170/BJDRTISRYHMI48CA
 http://198.16.76.122:8000/171/BJDRTISRYHMI48CA
 #EXTINF:-1,PINK O TV
 http://198.16.76.122:8000/172/BJDRTISRYHMI48CA
-#EXTINF:-1,XXX
-http://iptvportal.online:2500/live/mana/mana/2472.ts
-#EXTINF:-1,Candy
-http://62.76.26.81:8081/candy/candyman07/playlist.m3u8
 #EXTINF:-1,Candy Man
+http://62.76.26.81:8081/candy/candyman07/playlist.m3u8
+#EXTINF:-1,Candy
 http://62.76.26.81:8081/candy/candy07/playlist.m3u8
 #EXTINF:-1,Naked Kitchen
 http://178.33.226.36:8000/live/olsi/olsi/798.ts
