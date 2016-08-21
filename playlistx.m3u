@@ -23,7 +23,7 @@ http://46.99.163.138:9981/stream/channelid/1542022884?ticket=EC9CEB44DB0D8111C24
 http://46.99.163.138:9981/stream/channelid/1915939100?ticket=CA451ED82EDA1A9E34582BC26B3C51BEF30E5613&profile=pass
 #EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Fascinating
+#EXTINF:-1,Satisfaction
 http://198.16.76.122:8000/164/BJDRTISRYHMI48CA
 #EXTINF:-1,SCT
 http://198.16.76.122:8000/167/BJDRTISRYHMI48CA
