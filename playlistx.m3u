@@ -51,9 +51,5 @@ http://live.softiptv.com:9900/live/3m/3m/6828.ts
 http://live.softiptv.com:9900/live/3m/3m/6823.ts
 #EXTINF:-1,DORCEL
 http://live.softiptv.com:9900/live/3m/3m/6827.ts
-#EXTINF:-1,French Lover TV
-http://212.47.245.126:8081/tv/frenchlover/chunks.m3u8
-#EXTINF:-1,Bikini Kitchen Live
-http://live-823.gv2.edge.filmon.com/live/2000.low.stream/playlist.m3u8
 #EXTINF:-1,Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w738221384_b1896000.m3u8
