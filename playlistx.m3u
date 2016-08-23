@@ -53,3 +53,5 @@ http://live.softiptv.com:9900/live/3m/3m/6823.ts
 http://live.softiptv.com:9900/live/3m/3m/6827.ts
 #EXTINF:-1,PENTHOUSE HD
 http://198.16.76.122:8000/151/BJDRTISRYHMI48CA
+#EXTINF:-1,Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1738502083_b596000.m3u8
