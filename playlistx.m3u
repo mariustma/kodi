@@ -49,8 +49,6 @@ http://62.76.26.81:8081/candy/candy07/playlist.m3u8
 http://live.softiptv.com:9900/live/3m/3m/6823.ts
 #EXTINF:-1,DORCEL
 http://live.softiptv.com:9900/live/3m/3m/6827.ts
-#EXTINF:-1,AST
-http://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,Pink tv Korea
 http://edge2.everyon.tv/etv2sb/phd10062/chunklist_w2100334478.m3u8
 #EXTINF:-1,MIDNIGHT HD TV Korea
