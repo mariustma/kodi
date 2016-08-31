@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,AST
+http://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,XXX-1
 http://iptv.proff.co:15003/live/derosa/derosa/1736.ts
 #EXTINF:-1,XXX-2
