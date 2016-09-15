@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,RO: Dolce TV
+sop://broker.sopcast.com:3912/255726
 #EXTINF:0,RO: Antena 1
 http://51.255.93.110:8000/live/po6lhjfTvi/FqGSG8e6ox/597.ts
 #EXTINF:0,RO: Antena 1 S2
