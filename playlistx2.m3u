@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,AST
-http://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,XXX: Hustler HD
 http://sender.dyndns.biz:8000/live/oADdzK6f4W/UswG3exEgXxcXx/935.ts
 #EXTINF:-1,XXX: Redlight HD
@@ -2455,3 +2453,5 @@ http://drainmainvein.com/media/videos/mp4/3329.mp4
 http://drainmainvein.com/media/videos/mp4/3330.mp4
 #EXTINF:-1,XXL
 http://drainmainvein.com/media/videos/mp4/3331.mp4
+#EXTINF:-1,AST
+http://www.ast.tv/stream/1/ultra.m3u8
