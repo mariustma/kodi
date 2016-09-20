@@ -1,39 +1,3277 @@
 #EXTM3U
-#EXTINF:-1,Acasa TV
-http://89.35.222.169:2013/acasatv
-#EXTINF:-1,Antena 1
-http://89.35.222.169:2011/antena1
-#EXTINF:-1,ITV3
-http://89.35.222.169:2011/antena3
-#EXTINF:-1,TVR1
-http://89.35.222.169:2010/tvr1
-#EXTINF:-1,TVR2
-http://89.35.222.169:2010/tvr2
-#EXTINF:-1,Trinitas
-http://89.35.222.169:2012/trinitas
-#EXTINF:-1,TV Paprika
-http://89.35.222.169:2010/tvpaprika
-#EXTINF:-1,Taraf TV
-http://89.35.222.169:2013/taraftv
-#EXTINF:-1,Sport Ro
-http://89.35.222.169:2011/sportro
-#EXTINF:-1,Realitatea
-http://89.35.222.169:2013/realitatea
-#EXTINF:-1,PRO Cinema
-http://89.35.222.169:2013/procinema
-#EXTINF:-1,National TV
-http://89.35.222.169:2012/nationaltv
-#EXTINF:-1,Look TV
-http://89.35.222.169:2013/looktv
-#EXTINF:-1,Kanal D
-http://89.35.222.169:2011/kanald
-#EXTINF:-1,Favorit TV
-http://89.35.222.169:2012/favorittv
-#EXTINF:-1,Pro TV Timisoara
-http://89.35.222.169:2013/protvtimisoara
-#EXTINF:-1,Digi24 Timisoara
-http://89.35.222.169:2010/digi24timisoara
-#EXTINF:-1,Digi Sport
-http://89.35.222.169:2010/digisport3
-#EXTINF:-1,Euforia Lifestyle
-http://89.35.222.169:2011/euforialifestyle
+#EXTINF:-1,============ Brasil | Sky Brasil ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8573.m3u8
+#EXTINF:-1,BR | Telecine Premium
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10593.m3u8
+#EXTINF:-1,BR | Telecine Cult
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10594.m3u8
+#EXTINF:-1,BR | Telecine Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10591.m3u8
+#EXTINF:-1,BR | FOX Sporm3u8 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10590.m3u8
+#EXTINF:-1,BR | FOX Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10589.m3u8
+#EXTINF:-1,BR | ESPN BR
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10588.m3u8
+#EXTINF:-1,BR | ESPN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10587.m3u8
+#EXTINF:-1,BR | EI Maxx
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10597.m3u8
+#EXTINF:-1,BR | Band Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10598.m3u8
+#EXTINF:-1,USA | NHL Network
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10553.m3u8
+#EXTINF:-1,USA | CBS Sporm3u8 Network HD L
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10549.m3u8
+#EXTINF:-1,USA | SEC ESPN NETWORK HD L
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10552.m3u8
+#EXTINF:-1,============ Test ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7580.m3u8
+#EXTINF:-1,THL | MIO STADIUM 108
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10602.m3u8
+#EXTINF:-1,THL | MIO STADIUM 107
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10603.m3u8
+#EXTINF:-1,THL | MIO STADIUM 106
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10604.m3u8
+#EXTINF:-1,THL | MIO SPORm3u8 FULL HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10600.m3u8
+#EXTINF:-1,THL | MIO ELEVEN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10601.m3u8
+#EXTINF:-1,THL | 11 PLUS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10599.m3u8
+#EXTINF:-1,NL | Fox Sport 5 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10579.m3u8
+#EXTINF:-1,NL | Fox Sport 4 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10578.m3u8
+#EXTINF:-1,NL | Fox Sport 3 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10577.m3u8
+#EXTINF:-1,NL | Fox Sport 2 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10576.m3u8
+#EXTINF:-1,NL | Fox Sport 1 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10575.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10574.m3u8
+#EXTINF:-1,DE | Sky Sport News HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10585.m3u8
+#EXTINF:-1,DE | Sky Sport 2 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10584.m3u8
+#EXTINF:-1,DE | Sky Sport 1 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10583.m3u8
+#EXTINF:-1,DE | Sky Bundesliga HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10586.m3u8
+#EXTINF:-1,GR | OTE CINEMA 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10545.m3u8
+#EXTINF:-1,GR | OTE CINEMA 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10546.m3u8
+#EXTINF:-1,GR | OTE CINEMA 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10547.m3u8
+#EXTINF:-1,GR | OTE SPORT 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10537.m3u8
+#EXTINF:-1,GR | OTE SPORT 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10538.m3u8
+#EXTINF:-1,GR | OTE SPORT 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10539.m3u8
+#EXTINF:-1,GR | OTE SPORT 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10540.m3u8
+#EXTINF:-1,EX-YO | Face
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10551.m3u8
+#EXTINF:-1,ES | Disney XD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10554.m3u8
+#EXTINF:-1,============ Israel | YES HD ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10534.m3u8
+#EXTINF:-1,IL | PLUS  HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10527.m3u8
+#EXTINF:-1,IL | ZONE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10522.m3u8
+#EXTINF:-1,IL | GOLD HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10530.m3u8
+#EXTINF:-1,IL | ACTION HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10533.m3u8
+#EXTINF:-1,IL | Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10526.m3u8
+#EXTINF:-1,IL | Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10525.m3u8
+#EXTINF:-1,IL | Sport 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10523.m3u8
+#EXTINF:-1,IL | Sport 5  Live HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10524.m3u8
+#EXTINF:-1,============ Mix | Relaxing HD/3D ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7845.m3u8
+#EXTINF:-1,Relax | MUTE TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7794.m3u8
+#EXTINF:-1,Relax | MUTE TV 3D
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7795.m3u8
+#EXTINF:-1,============ MUSIC | Mix ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7581.m3u8
+#EXTINF:-1,Music | NRJ HIm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7859.m3u8
+#EXTINF:-1,Music | MTV Live HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7498.m3u8
+#EXTINF:-1,Music | MTV BASE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7842.m3u8
+#EXTINF:-1,Music | MTV Music
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7843.m3u8
+#EXTINF:-1,Music | MTV Him3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7844.m3u8
+#EXTINF:-1,Music | MTV Dance
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7478.m3u8
+#EXTINF:-1,Music | MTV Classic
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7475.m3u8
+#EXTINF:-1,Music | MTV Rocks
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7474.m3u8
+#EXTINF:-1,Music | Balkanika
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7589.m3u8
+#EXTINF:-1,Music | City TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9740.m3u8
+#EXTINF:-1,Music | UTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8495.m3u8
+#EXTINF:-1,Music | Music Vox TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7538.m3u8
+#EXTINF:-1,============ Other | Mix ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6933.m3u8
+#EXTINF:-1,AZ | SILK SPORT 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9703.m3u8
+#EXTINF:-1,AZ | SILK SPORT 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9702.m3u8
+#EXTINF:-1,AZ | SILK SPORT 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9704.m3u8
+#EXTINF:-1,AZ | SILK SPORT 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9005.m3u8
+#EXTINF:-1,FR | SFR Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9470.m3u8
+#EXTINF:-1,BE | VOO SPORT 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9471.m3u8
+#EXTINF:-1,BE | VOO SPORT 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9472.m3u8
+#EXTINF:-1,Galli Lucha Libre
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9290.m3u8
+#EXTINF:-1,UK | Premier Sporm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7471.m3u8
+#EXTINF:-1,UK | F1 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7950.m3u8
+#EXTINF:-1,USA | WWE HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7949.m3u8
+#EXTINF:-1,USA | Fight HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7839.m3u8
+#EXTINF:-1,USA | Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7386.m3u8
+#EXTINF:-1,SLO | SPORT TV 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8762.m3u8
+#EXTINF:-1,SLO | SPORT TV 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8763.m3u8
+#EXTINF:-1,SLO | SPORT TV 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8764.m3u8
+#EXTINF:-1,USA | Fox SPORm3u8 506 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7502.m3u8
+#EXTINF:-1,CA | Sporm3u8net World
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8565.m3u8
+#EXTINF:-1,Latino | Win Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6960.m3u8
+#EXTINF:-1,BR | ALL Sporm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7609.m3u8
+#EXTINF:-1,CHI | MBL HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7432.m3u8
+#EXTINF:-1,PL | Polsat Sport
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7789.m3u8
+#EXTINF:-1,PL | nSport Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7369.m3u8
+#EXTINF:-1,PL | Eleven Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7370.m3u8
+#EXTINF:-1,AR | Dubai Sport 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7101.m3u8
+#EXTINF:-1,PK | PTV Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7082.m3u8
+#EXTINF:-1,RU | MACH FUTBOL 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6723.m3u8
+#EXTINF:-1,RU | MACH FUTBOL 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6721.m3u8
+#EXTINF:-1,RU | MACH FUTBOL 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6722.m3u8
+#EXTINF:-1,ML | Astro Supersport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2943.m3u8
+#EXTINF:-1,ML | Astro Supersport 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2944.m3u8
+#EXTINF:-1,ML | Astro Supersport 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5772.m3u8
+#EXTINF:-1,ML | Astro Supersport 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6697.m3u8
+#EXTINF:-1,TH | MIO Stadium 101 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7653.m3u8
+#EXTINF:-1,TH | MIO Stadium 102 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7652.m3u8
+#EXTINF:-1,TH | MIO Stadium 103 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7651.m3u8
+#EXTINF:-1,TH | MIO Stadium 104 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7650.m3u8
+#EXTINF:-1,TH | MIO Stadium 105 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7649.m3u8
+#EXTINF:-1,SC | S.P.F.L RANGERS FC TV (matchtime)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9151.m3u8
+#EXTINF:-1,SC | S.P.F.L HEARm3u8 FC TV (matchtime)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9149.m3u8
+#EXTINF:-1,SC | S.P.F.L CELTIC FC TV(matchtime)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9152.m3u8
+#EXTINF:-1,SC | S.P.F.L ABERDENN FC TV (matchtime)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9150.m3u8
+#EXTINF:-1,============ ALBANIA/KOSOVO | DGA + TRING + Kujtesa ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6934.m3u8
+#EXTINF:-1,AL | Godfather Movie 24/7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9745.m3u8
+#EXTINF:-1,AL | Top Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6711.m3u8
+#EXTINF:-1,AL | Klan HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6042.m3u8
+#EXTINF:-1,AL | Vizion Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6713.m3u8
+#EXTINF:-1,AL | Tirana TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8254.m3u8
+#EXTINF:-1,AL | SuperSport 3 HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8274.m3u8
+#EXTINF:-1,AL | Cufo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8628.m3u8
+#EXTINF:-1,AL | SuperSport 1 HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8272.m3u8
+#EXTINF:-1,AL | RTV 21
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8246.m3u8
+#EXTINF:-1,AL | On TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8256.m3u8
+#EXTINF:-1,AL | KTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8247.m3u8
+#EXTINF:-1,AL | Kino Premium 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9697.m3u8
+#EXTINF:-1,AL | Kino Romance HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9694.m3u8
+#EXTINF:-1,AL | K SPORT1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8999.m3u8
+#EXTINF:-1,AL | K SPORT2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9000.m3u8
+#EXTINF:-1,AL | PLUS HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9670.m3u8
+#EXTINF:-1,AL | Kino Sci-Fi HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9693.m3u8
+#EXTINF:-1,AL | Supersport 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9685.m3u8
+#EXTINF:-1,AL | Kanali 7
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8278.m3u8
+#EXTINF:-1,AL | Elrodi
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8250.m3u8
+#EXTINF:-1,AL | Club Tv
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8279.m3u8
+#EXTINF:-1,AL | Alsat M
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8249.m3u8
+#EXTINF:-1,AL | ALB UK PLUS HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7430.m3u8
+#EXTINF:-1,AL | ALB UK HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7429.m3u8
+#EXTINF:-1,AL | Digi Gold PPV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3295.m3u8
+#EXTINF:-1,AL | Film Nje HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3296.m3u8
+#EXTINF:-1,AL | Film Dy HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3351.m3u8
+#EXTINF:-1,AL | Film Thriller
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4480.m3u8
+#EXTINF:-1,AL | Film Komedi
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4482.m3u8
+#EXTINF:-1,AL | Film Him3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4483.m3u8
+#EXTINF:-1,AL | Film Drame
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4485.m3u8
+#EXTINF:-1,AL | Film Autor
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4457.m3u8
+#EXTINF:-1,AL | Film Aksion
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4487.m3u8
+#EXTINF:-1,AL | Tring Super
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6046.m3u8
+#EXTINF:-1,AL | Tring Shqip
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6047.m3u8
+#EXTINF:-1,AL | Tring Max
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6048.m3u8
+#EXTINF:-1,AL | Tring Jolly HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6050.m3u8
+#EXTINF:-1,AL | Tring Fantasy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6040.m3u8
+#EXTINF:-1,AL | T HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3364.m3u8
+#EXTINF:-1,AL | Bang Bang
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8179.m3u8
+#EXTINF:-1,AL | Explorer Natyra
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7439.m3u8
+#EXTINF:-1,AL | Tring Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3368.m3u8
+#EXTINF:-1,AL | Tring Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3365.m3u8
+#EXTINF:-1,AL | Tring Sport 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3366.m3u8
+#EXTINF:-1,AL | Tring Sport 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3367.m3u8
+#EXTINF:-1,AL | Supersport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/445.m3u8
+#EXTINF:-1,AL | Supersport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/446.m3u8
+#EXTINF:-1,AL | Supersport 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/447.m3u8
+#EXTINF:-1,AL | Supersport 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/448.m3u8
+#EXTINF:-1,============ ARABIC | OSN & Others ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6907.m3u8
+#EXTINF:-1,AR | Dubai Sport 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8952.m3u8
+#EXTINF:-1,AR | Dubai sport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8956.m3u8
+#EXTINF:-1,AR | BeIN MOVIES 3HD Backup
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8949.m3u8
+#EXTINF:-1,AR | BeIN MOVIES 1HD Backup
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8951.m3u8
+#EXTINF:-1,AR | OSN Movies Premier   2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8928.m3u8
+#EXTINF:-1,AR | OSN Movies Kids HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8929.m3u8
+#EXTINF:-1,AR | OSN Movies Action HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8931.m3u8
+#EXTINF:-1,AR | OSN Box Office 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8932.m3u8
+#EXTINF:-1,AR | OSN Box Office 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8924.m3u8
+#EXTINF:-1,AR | OSN Movie Festival HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8941.m3u8
+#EXTINF:-1,AR | OSN  Ya Hala! SHABAB HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8942.m3u8
+#EXTINF:-1,AR | OSN  Ya Hala! HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8943.m3u8
+#EXTINF:-1,AR | Dubai Sporm3u8 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8847.m3u8
+#EXTINF:-1,AR | YAS Sporm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8066.m3u8
+#EXTINF:-1,AR | OSN Movies HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8056.m3u8
+#EXTINF:-1,AR | OSN MOVIES Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8059.m3u8
+#EXTINF:-1,AR | AD Sporm3u8 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8065.m3u8
+#EXTINF:-1,AR | AD Sporm3u8 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8064.m3u8
+#EXTINF:-1,AR | MBC 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2249.m3u8
+#EXTINF:-1,AR | MBC 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2233.m3u8
+#EXTINF:-1,AR | MBC 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2251.m3u8
+#EXTINF:-1,AR | Masr 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2244.m3u8
+#EXTINF:-1,AR | Cartoon Network
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2224.m3u8
+#EXTINF:-1,AR | Art Hekayat 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2221.m3u8
+#EXTINF:-1,AR | Art Cinema
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2229.m3u8
+#EXTINF:-1,AR | Nile Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2245.m3u8
+#EXTINF:-1,AR | Al Hayat
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2254.m3u8
+#EXTINF:-1,AR | OSN Action HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7045.m3u8
+#EXTINF:-1,AR | OSN Movies Premiere HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2225.m3u8
+#EXTINF:-1,AR | OSN BOX Office
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2228.m3u8
+#EXTINF:-1,AR | Dubai Racing
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2222.m3u8
+#EXTINF:-1,AR | beIN SPorm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6805.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/158.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/159.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/160.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/161.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/162.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/163.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/164.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/165.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 9 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/166.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 10 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/167.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 11 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5749.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 12 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5750.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 13 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5751.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 14 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5752.m3u8
+#EXTINF:-1,AR | Bein Sporm3u8 15 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8718.m3u8
+#EXTINF:-1,AR | Bein Sporm3u8 16 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9451.m3u8
+#EXTINF:-1,AR | Bein Sporm3u8 17 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8719.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 1 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/174.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 2 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/175.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 3 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/176.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 4 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/177.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 5 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/178.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 6 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/179.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 7 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/180.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 8 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/181.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 9 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/182.m3u8
+#EXTINF:-1,AR | beIN Sporm3u8 10 HD {Backup}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/183.m3u8
+#EXTINF:-1,AR | NILE DRAMA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4863.m3u8
+#EXTINF:-1,AR | MBC 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2253.m3u8
+#EXTINF:-1,AR | Bein Movies 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5662.m3u8
+#EXTINF:-1,AR | Bein Movies 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5663.m3u8
+#EXTINF:-1,AR | BEIN MOVIES 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8055.m3u8
+#EXTINF:-1,AR | Art Hekayat 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2219.m3u8
+#EXTINF:-1,============ Belgium | MIX HD ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8846.m3u8
+#EXTINF:-1,BE | VIJF
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8732.m3u8
+#EXTINF:-1,BE | VIER HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8733.m3u8
+#EXTINF:-1,BE | TeleVesdre
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8746.m3u8
+#EXTINF:-1,BE | RTL TVI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8735.m3u8
+#EXTINF:-1,BE | MNM
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8748.m3u8
+#EXTINF:-1,BE | LA UNE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8737.m3u8
+#EXTINF:-1,BE | LA TROIS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8738.m3u8
+#EXTINF:-1,BE | LA DEUX
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8739.m3u8
+#EXTINF:-1,BE | KETNET
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8740.m3u8
+#EXTINF:-1,BE | EEN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8742.m3u8
+#EXTINF:-1,BE | Dobbit TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8749.m3u8
+#EXTINF:-1,BE | CLUB RTL
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8743.m3u8
+#EXTINF:-1,BE | CANVAS HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8747.m3u8
+#EXTINF:-1,BE | ACHT
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8744.m3u8
+#EXTINF:-1,============ BULGARIA | Bulsatcom ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7714.m3u8
+#EXTINF:-1,BG | Sportal Digital HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8800.m3u8
+#EXTINF:-1,BG | Nova Sport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8796.m3u8
+#EXTINF:-1,BG | Ring HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9257.m3u8
+#EXTINF:-1,BG | TV Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9260.m3u8
+#EXTINF:-1,BG | Fiesta
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9254.m3u8
+#EXTINF:-1,BG | TV7
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9258.m3u8
+#EXTINF:-1,BG | BNT1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9256.m3u8
+#EXTINF:-1,BG | KinoNova
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8777.m3u8
+#EXTINF:-1,BG | Hobby TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8778.m3u8
+#EXTINF:-1,BG | Film Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8780.m3u8
+#EXTINF:-1,BG | F Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8782.m3u8
+#EXTINF:-1,BG | Diema TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8783.m3u8
+#EXTINF:-1,BG | Diema Sport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8798.m3u8
+#EXTINF:-1,BG | Diema Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8799.m3u8
+#EXTINF:-1,BG | Diema Family
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8784.m3u8
+#EXTINF:-1,BG | Comedy Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8785.m3u8
+#EXTINF:-1,BG | Cinema Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8786.m3u8
+#EXTINF:-1,BG | bTV Lady
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8787.m3u8
+#EXTINF:-1,BG | bTV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8788.m3u8
+#EXTINF:-1,BG | bTV Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8789.m3u8
+#EXTINF:-1,BG | bTV Cinema
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8790.m3u8
+#EXTINF:-1,BG | bTV Action HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8791.m3u8
+#EXTINF:-1,BG | BNT HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8792.m3u8
+#EXTINF:-1,BG | Action Plus HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8795.m3u8
+#EXTINF:-1,============ CZECH | UPC Direct ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6916.m3u8
+#EXTINF:-1,CZ | Retro
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5010.m3u8
+#EXTINF:-1,CZ | Noe
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5144.m3u8
+#EXTINF:-1,CZ | Nova Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10384.m3u8
+#EXTINF:-1,CZ | Nova Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10385.m3u8
+#EXTINF:-1,CZ | Golf HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10386.m3u8
+#EXTINF:-1,CZ | Prima HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10389.m3u8
+#EXTINF:-1,CZ | HBO HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10403.m3u8
+#EXTINF:-1,CZ | HBO 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10405.m3u8
+#EXTINF:-1,CZ | HBO 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10404.m3u8
+#EXTINF:-1,CZ | Film Europe HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10402.m3u8
+#EXTINF:-1,CZ | Doma HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10398.m3u8
+#EXTINF:-1,CZ | Dajto HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10399.m3u8
+#EXTINF:-1,CZ | Cinemax HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10400.m3u8
+#EXTINF:-1,CZ | Cinemax 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10401.m3u8
+#EXTINF:-1,CZ | Viasat Nature
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10409.m3u8
+#EXTINF:-1,CZ | Viasat History
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10408.m3u8
+#EXTINF:-1,CZ | Viasat Explore
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10407.m3u8
+#EXTINF:-1,CZ | Trebonska Lazenska TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10416.m3u8
+#EXTINF:-1,CZ | Telka
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10395.m3u8
+#EXTINF:-1,CZ | Sport 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10411.m3u8
+#EXTINF:-1,CZ | Smichov
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10396.m3u8
+#EXTINF:-1,CZ | Relax
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10397.m3u8
+#EXTINF:-1,CZ | Rebel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10417.m3u8
+#EXTINF:-1,CZ | Prima Cool
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10390.m3u8
+#EXTINF:-1,CZ | Polar TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10415.m3u8
+#EXTINF:-1,CZ | Poda TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10414.m3u8
+#EXTINF:-1,CZ | Nova
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10388.m3u8
+#EXTINF:-1,CZ | Mnam
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10413.m3u8
+#EXTINF:-1,CZ | Kinosvet
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10406.m3u8
+#EXTINF:-1,CZ | Kino Barrandov
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10392.m3u8
+#EXTINF:-1,CZ | Jihoceska TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10412.m3u8
+#EXTINF:-1,CZ | Fanda
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10394.m3u8
+#EXTINF:-1,CZ | CT art
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10387.m3u8
+#EXTINF:-1,CZ | Barrandov Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10393.m3u8
+#EXTINF:-1,CZ | Barrandov Muzika
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10418.m3u8
+#EXTINF:-1,CZ | Barrandov
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10391.m3u8
+#EXTINF:-1,CZ | Arena Sport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10410.m3u8
+#EXTINF:-1,============ Spain | Movistar+ ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6871.m3u8
+#EXTINF:-1,ES | La 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6872.m3u8
+#EXTINF:-1,ES | La 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/337.m3u8
+#EXTINF:-1,ES | Antena 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/345.m3u8
+#EXTINF:-1,ES | Cuatro
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6873.m3u8
+#EXTINF:-1,ES | Telecinco
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3230.m3u8
+#EXTINF:-1,ES | TELECINCO HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6561.m3u8
+#EXTINF:-1,ES | La Sexta
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/349.m3u8
+#EXTINF:-1,ES | Nova
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2182.m3u8
+#EXTINF:-1,ES | Neox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6874.m3u8
+#EXTINF:-1,ES | Mega
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6876.m3u8
+#EXTINF:-1,ES | Clan TVE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9274.m3u8
+#EXTINF:-1,ES | La Liga HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9684.m3u8
+#EXTINF:-1,ES | NON STOP PEOPLE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6875.m3u8
+#EXTINF:-1,ES | C+ Estenos
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/330.m3u8
+#EXTINF:-1,ES | C+ ESTRENOS HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6576.m3u8
+#EXTINF:-1,ES | C+  Xtra
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6399.m3u8
+#EXTINF:-1,ES | C+ XTRA HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6566.m3u8
+#EXTINF:-1,ES | C+ Accion
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/325.m3u8
+#EXTINF:-1,ES | C+ ACCION HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6573.m3u8
+#EXTINF:-1,ES | C+ Comedia
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/326.m3u8
+#EXTINF:-1,ES | C+ COMEDIA HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6574.m3u8
+#EXTINF:-1,ES | C+ DCine
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/327.m3u8
+#EXTINF:-1,ES | DCine Espanol
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6575.m3u8
+#EXTINF:-1,ES | C+ Series
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/333.m3u8
+#EXTINF:-1,ES | C+  SERIES HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6578.m3u8
+#EXTINF:-1,ES | C+ Series Xtra
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/340.m3u8
+#EXTINF:-1,ES | C+ Series Xtra HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6565.m3u8
+#EXTINF:-1,ES | Divinity
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6880.m3u8
+#EXTINF:-1,ES | Nick
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7012.m3u8
+#EXTINF:-1,ES | Hollywood
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2785.m3u8
+#EXTINF:-1,ES | HOLLYWOOD HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6579.m3u8
+#EXTINF:-1,ES | TCM
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6885.m3u8
+#EXTINF:-1,ES | BEIN Sporm3u8 HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7004.m3u8
+#EXTINF:-1,ES | TNT
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/346.m3u8
+#EXTINF:-1,ES | Paramount
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6884.m3u8
+#EXTINF:-1,ES | Fox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2181.m3u8
+#EXTINF:-1,ES | FOX HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6567.m3u8
+#EXTINF:-1,ES | Fox Life
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/344.m3u8
+#EXTINF:-1,ES | Viajar HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7009.m3u8
+#EXTINF:-1,ES | FOX LIFE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6568.m3u8
+#EXTINF:-1,ES | AMC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/343.m3u8
+#EXTINF:-1,ES | AMC HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6569.m3u8
+#EXTINF:-1,ES | AXN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/350.m3u8
+#EXTINF:-1,ES | AXN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6570.m3u8
+#EXTINF:-1,ES | AXN White
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6886.m3u8
+#EXTINF:-1,ES | AXN WHITE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6571.m3u8
+#EXTINF:-1,ES | A&E
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6887.m3u8
+#EXTINF:-1,ES | Syfy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2903.m3u8
+#EXTINF:-1,ES | Calle 13
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/339.m3u8
+#EXTINF:-1,ES | #0
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2799.m3u8
+#EXTINF:-1,ES | Energy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6890.m3u8
+#EXTINF:-1,ES | Comedy Central HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2186.m3u8
+#EXTINF:-1,ES | Boing
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6889.m3u8
+#EXTINF:-1,ES | C+ Futbol
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/392.m3u8
+#EXTINF:-1,ES | C+ Futbol HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6586.m3u8
+#EXTINF:-1,ES | C+ Deportes
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/328.m3u8
+#EXTINF:-1,ES | C+ Deportes HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6585.m3u8
+#EXTINF:-1,ES | C+ Deportes 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6584.m3u8
+#EXTINF:-1,ES | C+ Liga
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/332.m3u8
+#EXTINF:-1,ES | C+ LIGA HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6588.m3u8
+#EXTINF:-1,ES | Cosmo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/336.m3u8
+#EXTINF:-1,ES | C+ Golf
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/331.m3u8
+#EXTINF:-1,ES | C+ Golf*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6587.m3u8
+#EXTINF:-1,ES | Toros
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2802.m3u8
+#EXTINF:-1,ES | Bein Sporm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5532.m3u8
+#EXTINF:-1,ES | Movistar MotoGP
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/338.m3u8
+#EXTINF:-1,ES | Movistar MotoGP HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6581.m3u8
+#EXTINF:-1,ES | Movistar F1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/353.m3u8
+#EXTINF:-1,ES | Movistar F1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6580.m3u8
+#EXTINF:-1,ES | TELEDEPORTE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6572.m3u8
+#EXTINF:-1,ES | Real Madrid TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6882.m3u8
+#EXTINF:-1,ES | Barca TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6879.m3u8
+#EXTINF:-1,ES | Nat Geo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6881.m3u8
+#EXTINF:-1,ES | NATIONAL GEOGRAPHIC HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6563.m3u8
+#EXTINF:-1,ES | Nat Geo Wild
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/342.m3u8
+#EXTINF:-1,ES | NAT GEO WILD HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6562.m3u8
+#EXTINF:-1,ES | DISCOVERY
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6892.m3u8
+#EXTINF:-1,ES | DISCOVERY CHANNEL HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6564.m3u8
+#EXTINF:-1,ES | Nick JR
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7013.m3u8
+#EXTINF:-1,ES | Disney JR
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6893.m3u8
+#EXTINF:-1,ES | Canal Odisea
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6891.m3u8
+#EXTINF:-1,ES | Historia
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2350.m3u8
+#EXTINF:-1,ES | Caza Y Pesca
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/351.m3u8
+#EXTINF:-1,ES | Canal Cocica
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/324.m3u8
+#EXTINF:-1,ES | Disney
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/320.m3u8
+#EXTINF:-1,ES | 40 TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7007.m3u8
+#EXTINF:-1,============ EX-YO | Pink & Max TV ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6913.m3u8
+#EXTINF:-1,EX-YO | Pink World
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5240.m3u8
+#EXTINF:-1,EX-YO:Pink Romance
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5247.m3u8
+#EXTINF:-1,EX-YO | PINK ZABAVA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10422.m3u8
+#EXTINF:-1,EX-YO | PINK KIDS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10426.m3u8
+#EXTINF:-1,EX-YO:Pink Him3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5248.m3u8
+#EXTINF:-1,EX-YO | FOX LIFE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6959.m3u8
+#EXTINF:-1,EX-YO | FIGHT CHANNEL
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6957.m3u8
+#EXTINF:-1,EX-YO | Nick
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5238.m3u8
+#EXTINF:-1,EX-YO:HRT 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5202.m3u8
+#EXTINF:-1,EX-YO:HBO Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5262.m3u8
+#EXTINF:-1,EX-YO | Pink Bih
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5261.m3u8
+#EXTINF:-1,EX-YO:FOX Movies
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5264.m3u8
+#EXTINF:-1,EX-YO:CMC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5220.m3u8
+#EXTINF:-1,EX-YO | Cinestar Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5218.m3u8
+#EXTINF:-1,EX-YO:Cinemax 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5256.m3u8
+#EXTINF:-1,EX-YO:ANIMAL PLANET
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5206.m3u8
+#EXTINF:-1,EX-YO | Sporm3u8ka TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5205.m3u8
+#EXTINF:-1,EX-YO | SPORTKLUB 6 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6956.m3u8
+#EXTINF:-1,EX-YO | SPORTKLUB 5 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6955.m3u8
+#EXTINF:-1,EX-YO | SPORTKLUB 4 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6954.m3u8
+#EXTINF:-1,EX-YO | Sport Klub 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2665.m3u8
+#EXTINF:-1,EX-YO | Sport Klub 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2664.m3u8
+#EXTINF:-1,EX-YO | Sport Klub 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2663.m3u8
+#EXTINF:-1,EX-YO | SK 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/422.m3u8
+#EXTINF:-1,EX-YO | SK 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/421.m3u8
+#EXTINF:-1,EX-YO | SK 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/420.m3u8
+#EXTINF:-1,EX-YO | Pink Thriller
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3272.m3u8
+#EXTINF:-1,EX-YO | Cinemax
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3278.m3u8
+#EXTINF:-1,EX-YO | Pink Romance
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3270.m3u8
+#EXTINF:-1,EX-YO | Pink Reality
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3271.m3u8
+#EXTINF:-1,EX-YO | Pink Premium
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3277.m3u8
+#EXTINF:-1,EX-YO | Pink Horror
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3275.m3u8
+#EXTINF:-1,EX-YO | Pink Film
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3285.m3u8
+#EXTINF:-1,EX-YO | Pink Extra
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3286.m3u8
+#EXTINF:-1,EX-YO | Pink Crime
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3289.m3u8
+#EXTINF:-1,EX-YO | Pink Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3290.m3u8
+#EXTINF:-1,EX-YO | Pink Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3287.m3u8
+#EXTINF:-1,EX-YO | Pink Western
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8475.m3u8
+#EXTINF:-1,EX-YO | Pink Serije
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8476.m3u8
+#EXTINF:-1,EX-YO | Pink Pedia
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8477.m3u8
+#EXTINF:-1,EX-YO | Pink Movies
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8478.m3u8
+#EXTINF:-1,EX-YO | Pink M
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8479.m3u8
+#EXTINF:-1,EX-YO | Pink Kuvar
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8480.m3u8
+#EXTINF:-1,EX-YO | Pink Crime  & Mistery
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8481.m3u8
+#EXTINF:-1,EX-YO | Pink BH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8482.m3u8
+#EXTINF:-1,EX-YO | RTV Zenica
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8472.m3u8
+#EXTINF:-1,EX-YO | NOVA HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8465.m3u8
+#EXTINF:-1,EX-YO | Cinestar TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8473.m3u8
+#EXTINF:-1,EX-YO | Cinemax 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8474.m3u8
+#EXTINF:-1,EX-YO | PRVA PLUS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8471.m3u8
+#EXTINF:-1,EX-YO | BHT HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8466.m3u8
+#EXTINF:-1,EX-YO | Fox Crime
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8470.m3u8
+#EXTINF:-1,EX-YO | PRVA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8469.m3u8
+#EXTINF:-1,EX-YO | Hayat HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8468.m3u8
+#EXTINF:-1,EX-YO | Pink 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3291.m3u8
+#EXTINF:-1,EX-YO | Pink 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3292.m3u8
+#EXTINF:-1,EX-YO | Pink 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3293.m3u8
+#EXTINF:-1,EX-YO | HRT 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3900.m3u8
+#EXTINF:-1,EX-YO | HRT 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3898.m3u8
+#EXTINF:-1,EX-YO | Cinestar Premiere 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5055.m3u8
+#EXTINF:-1,EX-YO | Cinestar Premiere 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3262.m3u8
+#EXTINF:-1,EX-YO | B92
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3282.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 5 CRO
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/419.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 4 SRB
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2529.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 4 Cro
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/418.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 3 Cro
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/417.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 2 SRB
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2527.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 2 Cro
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/416.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 1 SRB
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2526.m3u8
+#EXTINF:-1,EX-YO | Arena Sport 1 Cro
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/415.m3u8
+#EXTINF:-1,EX -YO | Arena Sport 3 SRB
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2528.m3u8
+#EXTINF:-1,============ FRANCE | CSat ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6902.m3u8
+#EXTINF:-1,FR | W9
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/408.m3u8
+#EXTINF:-1,FR | Ushuaia TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5502.m3u8
+#EXTINF:-1,FR | TMC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2344.m3u8
+#EXTINF:-1,FR | SFR SPORT 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10214.m3u8
+#EXTINF:-1,FR | TF1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6818.m3u8
+#EXTINF:-1,FR | SyFy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6837.m3u8
+#EXTINF:-1,FR | RTL 9
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2320.m3u8
+#EXTINF:-1,FR | RMC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6833.m3u8
+#EXTINF:-1,FR | Planet+ A&E
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5499.m3u8
+#EXTINF:-1,FR | Trek
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6865.m3u8
+#EXTINF:-1,FR | Paris Premiere HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6835.m3u8
+#EXTINF:-1,FR | PARAMOUNT
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6861.m3u8
+#EXTINF:-1,FR | Rm3u8 Un
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8667.m3u8
+#EXTINF:-1,FR | Rm3u8 Deux
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8666.m3u8
+#EXTINF:-1,FR | OSC CITY HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6851.m3u8
+#EXTINF:-1,FR | OLTV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6850.m3u8
+#EXTINF:-1,FR | OL
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5494.m3u8
+#EXTINF:-1,FR | OCS Max
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2598.m3u8
+#EXTINF:-1,FR | OCS Geanm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6852.m3u8
+#EXTINF:-1,FR | OCS City
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2597.m3u8
+#EXTINF:-1,FR | 6TER HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2325.m3u8
+#EXTINF:-1,FR | Comedie Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6846.m3u8
+#EXTINF:-1,FR | National Geographique
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2613.m3u8
+#EXTINF:-1,FR | NATIONAL GEO WILD HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2614.m3u8
+#EXTINF:-1,FR | Nat Geo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/403.m3u8
+#EXTINF:-1,FR | Game One
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/405.m3u8
+#EXTINF:-1,FR | Voyage
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6849.m3u8
+#EXTINF:-1,FR | TV Breizh
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2341.m3u8
+#EXTINF:-1,FR | M6 Music
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2165.m3u8
+#EXTINF:-1,FR | M6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6860.m3u8
+#EXTINF:-1,FR | L'equipe 21*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5497.m3u8
+#EXTINF:-1,FR | L'Equipe 21
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6656.m3u8
+#EXTINF:-1,FR | BET
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6863.m3u8
+#EXTINF:-1,FR | France O
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6858.m3u8
+#EXTINF:-1,FR | France 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6857.m3u8
+#EXTINF:-1,FR | France 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2317.m3u8
+#EXTINF:-1,FR | France 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2316.m3u8
+#EXTINF:-1,FR | France 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/404.m3u8
+#EXTINF:-1,FR | Foot +
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6657.m3u8
+#EXTINF:-1,FR | Equida Live HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6063.m3u8
+#EXTINF:-1,FR | Disney Junior
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6844.m3u8
+#EXTINF:-1,FR | Discovery HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6839.m3u8
+#EXTINF:-1,FR | D8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6859.m3u8
+#EXTINF:-1,FR | D17 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6834.m3u8
+#EXTINF:-1,FR | Cine+ Premier
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2601.m3u8
+#EXTINF:-1,FR | CINE+ EMOTION HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6855.m3u8
+#EXTINF:-1,FR | Cine+  Emotion HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2602.m3u8
+#EXTINF:-1,FR | CINE POLAR
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6853.m3u8
+#EXTINF:-1,FR | CINE FX
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6854.m3u8
+#EXTINF:-1,FR | CHERIE 25 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6856.m3u8
+#EXTINF:-1,FR | Chasse & Peche
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5505.m3u8
+#EXTINF:-1,FR | Canal+ Sport HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/400.m3u8
+#EXTINF:-1,FR | Canal+ Sport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2332.m3u8
+#EXTINF:-1,FR | Canal+ HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2340.m3u8
+#EXTINF:-1,FR | Canal+ Frisson
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2603.m3u8
+#EXTINF:-1,FR | Canal+ Famiz HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2600.m3u8
+#EXTINF:-1,FR | Canal+ Famiz
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/401.m3u8
+#EXTINF:-1,FR | Canal+ Decale HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2315.m3u8
+#EXTINF:-1,FR | Canal+ Classic HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2604.m3u8
+#EXTINF:-1,FR | Canal+ Cinema HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/397.m3u8
+#EXTINF:-1,FR | Canal+ Cinema HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2323.m3u8
+#EXTINF:-1,FR | Canal+  Series HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/399.m3u8
+#EXTINF:-1,FR | Canal+
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2608.m3u8
+#EXTINF:-1,FR | E!
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6841.m3u8
+#EXTINF:-1,FR | beIN Sport 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/201.m3u8
+#EXTINF:-1,FR | beIN Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/200.m3u8
+#EXTINF:-1,FR | beIN Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/199.m3u8
+#EXTINF:-1,FR | ANIMAUX HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6840.m3u8
+#EXTINF:-1,FR | Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2337.m3u8
+#EXTINF:-1,FR | A LA CARTE 9
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5488.m3u8
+#EXTINF:-1,FR | A LA CARTE 8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5487.m3u8
+#EXTINF:-1,FR | A LA CARTE 7
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5486.m3u8
+#EXTINF:-1,FR | A LA CARTE 6
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5485.m3u8
+#EXTINF:-1,FR | A LA CARTE 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5484.m3u8
+#EXTINF:-1,FR | A LA CARTE 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5483.m3u8
+#EXTINF:-1,FR | A LA CARTE 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5482.m3u8
+#EXTINF:-1,FR | A LA CARTE 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5481.m3u8
+#EXTINF:-1,FR | A LA CARTE 10
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5489.m3u8
+#EXTINF:-1,FR | A LA CARTE 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5480.m3u8
+#EXTINF:-1,FR | 13 Rue
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2322.m3u8
+#EXTINF:-1,============ GERMANY | Sky DE ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6908.m3u8
+#EXTINF:-1,DE | Sixx HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7086.m3u8
+#EXTINF:-1,DE | RTL HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7087.m3u8
+#EXTINF:-1,DE | RTL Crime
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7083.m3u8
+#EXTINF:-1,DE | Sky Sport News HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9233.m3u8
+#EXTINF:-1,DE | Sky Sport Austria
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9234.m3u8
+#EXTINF:-1,DE | RTL 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7088.m3u8
+#EXTINF:-1,DE | Nickelodeon HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7085.m3u8
+#EXTINF:-1,DE | Syfy HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7084.m3u8
+#EXTINF:-1,DE | Sky Cinema
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/372.m3u8
+#EXTINF:-1,DE | Sky Him3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/380.m3u8
+#EXTINF:-1,DE | Sky Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/375.m3u8
+#EXTINF:-1,DE | Sky Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/379.m3u8
+#EXTINF:-1,DE | Sky Emotion
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/364.m3u8
+#EXTINF:-1,DE | Sky Nostalgie
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6909.m3u8
+#EXTINF:-1,DE | Sky Krimi
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6910.m3u8
+#EXTINF:-1,DE | TNT Series HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/435.m3u8
+#EXTINF:-1,DE | TNT Serie HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6766.m3u8
+#EXTINF:-1,DE | TNT Film HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6767.m3u8
+#EXTINF:-1,DE | RTL Nitro
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/385.m3u8
+#EXTINF:-1,DE | Sky Atlantic HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/376.m3u8
+#EXTINF:-1,DE | Super RTL
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/373.m3u8
+#EXTINF:-1,DE | ZDF
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/384.m3u8
+#EXTINF:-1,DE | Sport1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9003.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8968.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8969.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8970.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8971.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8972.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8973.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 9 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8974.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 11 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8976.m3u8
+#EXTINF:-1,DE | Sky Germany Sport 10 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8975.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8977.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8978.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8979.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8980.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8981.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8982.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8983.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8984.m3u8
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8985.m3u8
+#EXTINF:-1,DE | Sky Select 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7977.m3u8
+#EXTINF:-1,DE | Sky Select 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7978.m3u8
+#EXTINF:-1,DE | Sky Select 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7979.m3u8
+#EXTINF:-1,DE | Sky Select 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7980.m3u8
+#EXTINF:-1,DE | Sky Select 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7981.m3u8
+#EXTINF:-1,DE | Sky Select 6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7982.m3u8
+#EXTINF:-1,DE | Sky Select 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7983.m3u8
+#EXTINF:-1,DE | Sky Select 8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7984.m3u8
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/381.m3u8
+#EXTINF:-1,DE | Sky Sport 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/382.m3u8
+#EXTINF:-1,DE | Sky Bundesliga 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/377.m3u8
+#EXTINF:-1,DE | Kinowelt
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8691.m3u8
+#EXTINF:-1,DE | VOX HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5794.m3u8
+#EXTINF:-1,DE | Sat. 1 Gold Deum3u8chland
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5784.m3u8
+#EXTINF:-1,DE | Sat 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3254.m3u8
+#EXTINF:-1,DE | RTL Passion
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5795.m3u8
+#EXTINF:-1,DE | ORF EINS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5785.m3u8
+#EXTINF:-1,DE | RTL 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5786.m3u8
+#EXTINF:-1,DE | Pro 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3247.m3u8
+#EXTINF:-1,DE | RTL Living
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3249.m3u8
+#EXTINF:-1,DE | Nat Geo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/354.m3u8
+#EXTINF:-1,DE | KIKA - Der KinderKanal
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5787.m3u8
+#EXTINF:-1,DE | Kika
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3152.m3u8
+#EXTINF:-1,DE | Kabel 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5788.m3u8
+#EXTINF:-1,DE | History Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6769.m3u8
+#EXTINF:-1,DE | Sky Cinema 24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3253.m3u8
+#EXTINF:-1,DE | Dmax
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5789.m3u8
+#EXTINF:-1,DE | MGM
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5790.m3u8
+#EXTINF:-1,DE | Fox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3250.m3u8
+#EXTINF:-1,DE | Disney XD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5791.m3u8
+#EXTINF:-1,DE | Disney Junior
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5792.m3u8
+#EXTINF:-1,DE | Disney Cinemagic
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5796.m3u8
+#EXTINF:-1,DE | Disney
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/363.m3u8
+#EXTINF:-1,DE | Discovery Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5793.m3u8
+#EXTINF:-1,DE | Discovery
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/356.m3u8
+#EXTINF:-1,DE | AXN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6770.m3u8
+#EXTINF:-1,DE | Sport 1+ HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/371.m3u8
+#EXTINF:-1,DE | 13 Street
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3246.m3u8
+#EXTINF:-1,============ Greece | OTE ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9714.m3u8
+#EXTINF:-1,============ INDIA | DISH & Others ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6912.m3u8
+#EXTINF:-1,IN | Zee TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5777.m3u8
+#EXTINF:-1,IN | Ten Cricket
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4519.m3u8
+#EXTINF:-1,IN | Star Gold
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8053.m3u8
+#EXTINF:-1,IN | Zing
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6268.m3u8
+#EXTINF:-1,IN | Zee ETC Bollywood
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4528.m3u8
+#EXTINF:-1,IN | Vijay*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5452.m3u8
+#EXTINF:-1,IN | Sun TV*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6249.m3u8
+#EXTINF:-1,IN | ZOOM*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9756.m3u8
+#EXTINF:-1,IN | ZEE ZINDAGI*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9747.m3u8
+#EXTINF:-1,IN | ZEE TV*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9746.m3u8
+#EXTINF:-1,IN | ZEE STUDIO*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9748.m3u8
+#EXTINF:-1,IN | Ten 3*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9774.m3u8
+#EXTINF:-1,IN | Ten 2*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9773.m3u8
+#EXTINF:-1,IN | Ten 1*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9772.m3u8
+#EXTINF:-1,IN | STAR WORLD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9749.m3u8
+#EXTINF:-1,IN | Star Sporm3u8 4*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9768.m3u8
+#EXTINF:-1,IN | Star Sporm3u8 3*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9767.m3u8
+#EXTINF:-1,IN | Star Sporm3u8 2*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9766.m3u8
+#EXTINF:-1,IN | Star Sporm3u8 1*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9765.m3u8
+#EXTINF:-1,IN | Star Movies*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9764.m3u8
+#EXTINF:-1,IN | SONY TV*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9750.m3u8
+#EXTINF:-1,IN | Sony Six*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9769.m3u8
+#EXTINF:-1,IN | Sony Pix*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9770.m3u8
+#EXTINF:-1,IN | SONY PAL*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9752.m3u8
+#EXTINF:-1,IN | SAB TV*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9751.m3u8
+#EXTINF:-1,IN | MTV*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9761.m3u8
+#EXTINF:-1,IN | HBO*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9762.m3u8
+#EXTINF:-1,IN | DD Sporm3u8*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9771.m3u8
+#EXTINF:-1,IN | COLORS*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9754.m3u8
+#EXTINF:-1,IN | BINDAS*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9759.m3u8
+#EXTINF:-1,IN | BIG MAGIC*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9760.m3u8
+#EXTINF:-1,IN | B4U MOVIES*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9758.m3u8
+#EXTINF:-1,IN | AXN*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9763.m3u8
+#EXTINF:-1,IN | Zee Cinema
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6273.m3u8
+#EXTINF:-1,IN | Sun Music
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4805.m3u8
+#EXTINF:-1,IN | Life OK
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9572.m3u8
+#EXTINF:-1,IN | Rishtay
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9571.m3u8
+#EXTINF:-1,IN | TEN 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9143.m3u8
+#EXTINF:-1,IN | Star Sporm3u8 4 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6253.m3u8
+#EXTINF:-1,IN | Star Sporm3u8 2 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6251.m3u8
+#EXTINF:-1,IN | Star Sporm3u8 1 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6250.m3u8
+#EXTINF:-1,IN | Star Sport 4*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4514.m3u8
+#EXTINF:-1,IN | Star Plus HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6803.m3u8
+#EXTINF:-1,IN | Star Life OK
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6146.m3u8
+#EXTINF:-1,IN | WILLOW HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8641.m3u8
+#EXTINF:-1,IN | Sony Six
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6151.m3u8
+#EXTINF:-1,IN | Adithya TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4710.m3u8
+#EXTINF:-1,IN | Sony
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4711.m3u8
+#EXTINF:-1,IN | PTV Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6426.m3u8
+#EXTINF:-1,IN | Maa Music
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4135.m3u8
+#EXTINF:-1,IN | Colors HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6424.m3u8
+#EXTINF:-1,IN | B4U Music
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6271.m3u8
+#EXTINF:-1,============ Switzerland | Teleclub ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9715.m3u8
+#EXTINF:-1,SWS | SRF 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10217.m3u8
+#EXTINF:-1,SWS | SRF 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10216.m3u8
+#EXTINF:-1,SWS | SRF 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7965.m3u8
+#EXTINF:-1,SWS | SRF 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7966.m3u8
+#EXTINF:-1,SWS | RSI LA 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7974.m3u8
+#EXTINF:-1,SWS | RSI LA 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7975.m3u8
+#EXTINF:-1,SWS |  TELECLUB SPORT 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9142.m3u8
+#EXTINF:-1,SWS |  TELECLUB SPORT 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9144.m3u8
+#EXTINF:-1,SWS |  TELECLUB SPORT 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9145.m3u8
+#EXTINF:-1,SWS | Teleclub Star
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9010.m3u8
+#EXTINF:-1,SWS |  TELECLUB PRIME
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8710.m3u8
+#EXTINF:-1,SWS |  TELECLUB CINEMA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8709.m3u8
+#EXTINF:-1,============ ITALY | Sky IT ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6911.m3u8
+#EXTINF:-1,IT:Swiss | RSI La 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2912.m3u8
+#EXTINF:-1,IT:Swiss | RSI La 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2565.m3u8
+#EXTINF:-1,IT | Sky Cinema 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8208.m3u8
+#EXTINF:-1,IT | Sky Cinema Comedy HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8210.m3u8
+#EXTINF:-1,IT | Sky Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8214.m3u8
+#EXTINF:-1,IT | Sky Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8353.m3u8
+#EXTINF:-1,IT | Tg Com 24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10187.m3u8
+#EXTINF:-1,IT | Sky Moto GP HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10175.m3u8
+#EXTINF:-1,IT | Rai Premium
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10173.m3u8
+#EXTINF:-1,IT | Premium Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10203.m3u8
+#EXTINF:-1,IT | Premium Energy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10191.m3u8
+#EXTINF:-1,IT | Premium Emotion
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10192.m3u8
+#EXTINF:-1,IT | Premium Crime   24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10194.m3u8
+#EXTINF:-1,IT | Premium Cinema 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10189.m3u8
+#EXTINF:-1,IT | Premium Cinema   24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10188.m3u8
+#EXTINF:-1,IT | Premium Action  24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10193.m3u8
+#EXTINF:-1,IT | Paramount Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10204.m3u8
+#EXTINF:-1,IT | Nuvolari
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10182.m3u8
+#EXTINF:-1,IT | MTV 8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10205.m3u8
+#EXTINF:-1,IT | K2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10185.m3u8
+#EXTINF:-1,IT | Sky Uno HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10572.m3u8
+#EXTINF:-1,IT | Sky Sport 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10561.m3u8
+#EXTINF:-1,IT | Premium Sport 2 HD *
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10580.m3u8
+#EXTINF:-1,IT | Sky Fox Sporm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10559.m3u8
+#EXTINF:-1,IT | SKY Fox Animation HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10560.m3u8
+#EXTINF:-1,IT | Sky Cinema Classic HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10571.m3u8
+#EXTINF:-1,IT | SKY Cinema  24 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10566.m3u8
+#EXTINF:-1,IT | Sky Calcio 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10555.m3u8
+#EXTINF:-1,IT | Sky Calcio 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10556.m3u8
+#EXTINF:-1,IT | Sky Calcio 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10557.m3u8
+#EXTINF:-1,IT | Sky Calcio 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10558.m3u8
+#EXTINF:-1,IT | Sky Calcio 6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10582.m3u8
+#EXTINF:-1,IT | Sky Calcio 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10581.m3u8
+#EXTINF:-1,IT | Premium Cinema 2   24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10563.m3u8
+#EXTINF:-1,IT | Juventus Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10568.m3u8
+#EXTINF:-1,IT | Inter Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10569.m3u8
+#EXTINF:-1,IT | frisbee
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10562.m3u8
+#EXTINF:-1,IT | Fox Comedy HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10567.m3u8
+#EXTINF:-1,IT | Class Horse TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10570.m3u8
+#EXTINF:-1,IT | AXN SciFy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10565.m3u8
+#EXTINF:-1,IT | AXN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10564.m3u8
+#EXTINF:-1,IT | Giallo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10172.m3u8
+#EXTINF:-1,IT | Focus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10180.m3u8
+#EXTINF:-1,IT | Expansione TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10208.m3u8
+#EXTINF:-1,IT | Eurosport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10176.m3u8
+#EXTINF:-1,IT | Eurosport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10177.m3u8
+#EXTINF:-1,IT | DMAX HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10183.m3u8
+#EXTINF:-1,IT | Disney XD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10184.m3u8
+#EXTINF:-1,IT | Disney Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10202.m3u8
+#EXTINF:-1,IT | Discovery Sciences HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10178.m3u8
+#EXTINF:-1,IT | Discovery Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10179.m3u8
+#EXTINF:-1,IT | Bike Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10195.m3u8
+#EXTINF:-1,IT | Animal Planet
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10181.m3u8
+#EXTINF:-1,IT | Top Crime
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10128.m3u8
+#EXTINF:-1,IT | Sky Cinema Family HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10124.m3u8
+#EXTINF:-1,IT | Rai Movie HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10126.m3u8
+#EXTINF:-1,IT | Gambero Rosso
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10132.m3u8
+#EXTINF:-1,IT | Fox Life
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10130.m3u8
+#EXTINF:-1,IT | Fox Crime
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10131.m3u8
+#EXTINF:-1,IT | Fox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10129.m3u8
+#EXTINF:-1,IT | Sky Sport F1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8212.m3u8
+#EXTINF:-1,IT | Rai 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1010.m3u8
+#EXTINF:-1,IT | Rai 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1011.m3u8
+#EXTINF:-1,IT | Rai 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1012.m3u8
+#EXTINF:-1,IT | Rai 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2191.m3u8
+#EXTINF:-1,IT | Rai 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2192.m3u8
+#EXTINF:-1,IT | Italia 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2569.m3u8
+#EXTINF:-1,IT | Canal 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2536.m3u8
+#EXTINF:-1,IT | Canale 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6804.m3u8
+#EXTINF:-1,IT | Rete 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2534.m3u8
+#EXTINF:-1,IT | Sky Cinema Max HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/288.m3u8
+#EXTINF:-1,IT | SKy Cinema Passion HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/980.m3u8
+#EXTINF:-1,IT | Sky Cinema Cult HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1002.m3u8
+#EXTINF:-1,IT | Premium Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7464.m3u8
+#EXTINF:-1,IT | BOING
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7453.m3u8
+#EXTINF:-1,IT | LA 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7229.m3u8
+#EXTINF:-1,IT | Discovery Real Time
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7321.m3u8
+#EXTINF:-1,IT | Super
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6800.m3u8
+#EXTINF:-1,IT | Sky TG 24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2566.m3u8
+#EXTINF:-1,IT | Sky Supercalcio HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8907.m3u8
+#EXTINF:-1,IT | Premium Sport SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8966.m3u8
+#EXTINF:-1,IT | Premium Sport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8965.m3u8
+#EXTINF:-1,IT | Premium Sport 2 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8967.m3u8
+#EXTINF:-1,IT | Premium Calcio 1*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8986.m3u8
+#EXTINF:-1,IT | Premium Calcio 2*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8987.m3u8
+#EXTINF:-1,IT | Premium Calcio 3*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8988.m3u8
+#EXTINF:-1,IT | Premium Calcio 4*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8989.m3u8
+#EXTINF:-1,IT | Premium Calcio 5*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8990.m3u8
+#EXTINF:-1,IT | Prima Fila 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5506.m3u8
+#EXTINF:-1,IT | Prima Fila 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5514.m3u8
+#EXTINF:-1,IT | Prima Fila 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5507.m3u8
+#EXTINF:-1,IT | Prima Fila 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5510.m3u8
+#EXTINF:-1,IT | Prima Fila 8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5511.m3u8
+#EXTINF:-1,IT | Prima Fila 9 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5512.m3u8
+#EXTINF:-1,IT | Prenium Cinema HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/247.m3u8
+#EXTINF:-1,IT | Prenium Sport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2357.m3u8
+#EXTINF:-1,IT | La 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3442.m3u8
+#EXTINF:-1,IT | Premium Cartoon Network
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2564.m3u8
+#EXTINF:-1,IT | Prenium Calcio
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2356.m3u8
+#EXTINF:-1,IT | Premium Studio Universal
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2572.m3u8
+#EXTINF:-1,IT | Premium Joy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2576.m3u8
+#EXTINF:-1,IT | Premium Stories
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2574.m3u8
+#EXTINF:-1,IT | Premium Disney Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2578.m3u8
+#EXTINF:-1,IT | Sky Cinema Him3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2579.m3u8
+#EXTINF:-1,IT | Premium Crime HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2580.m3u8
+#EXTINF:-1,IT | Premium Cinema Energy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2581.m3u8
+#EXTINF:-1,IT | Premium Cinema Emotion
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2582.m3u8
+#EXTINF:-1,IT | Premium Action HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2585.m3u8
+#EXTINF:-1,IT | National Geographic HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2559.m3u8
+#EXTINF:-1,IT | Nat Geo Wild HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2561.m3u8
+#EXTINF:-1,IT | Nat Geo Wild HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3215.m3u8
+#EXTINF:-1,IT | NAT GEO PEOPLE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2560.m3u8
+#EXTINF:-1,IT | Mediaset Extra
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/975.m3u8
+#EXTINF:-1,IT | Marcopolo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6796.m3u8
+#EXTINF:-1,IT | LA 7
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2537.m3u8
+#EXTINF:-1,IT | ITALIA 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4583.m3u8
+#EXTINF:-1,IT | Iris
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2541.m3u8
+#EXTINF:-1,IT | Sport Italia
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6795.m3u8
+#EXTINF:-1,IT | History HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2563.m3u8
+#EXTINF:-1,IT | Historia
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2545.m3u8
+#EXTINF:-1,IT | E! HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6793.m3u8
+#EXTINF:-1,IT | Disney Junior
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2530.m3u8
+#EXTINF:-1,IT | Discovery Travel & Living HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6791.m3u8
+#EXTINF:-1,IT | Cielo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2538.m3u8
+#EXTINF:-1,IT | Cartoonito
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6787.m3u8
+#EXTINF:-1,IT | Alice
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6786.m3u8
+#EXTINF:-1,============ LATINO | Total Play ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6906.m3u8
+#EXTINF:-1,Latino | Warner HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6457.m3u8
+#EXTINF:-1,Latino | Universal HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6458.m3u8
+#EXTINF:-1,Latino | Unicable HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6459.m3u8
+#EXTINF:-1,Latino | Tru Tv HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6460.m3u8
+#EXTINF:-1,Latino | TNT Series HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6463.m3u8
+#EXTINF:-1,Latino | Space HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6524.m3u8
+#EXTINF:-1,Latino | NatGeo Wild HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6467.m3u8
+#EXTINF:-1,Latino | Multimedios Monterrey HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6468.m3u8
+#EXTINF:-1,Latino | Milenio TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6520.m3u8
+#EXTINF:-1,Latino | ESPN+
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6470.m3u8
+#EXTINF:-1,Latino | History HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6472.m3u8
+#EXTINF:-1,Latino | Gourmet
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6522.m3u8
+#EXTINF:-1,Latino | Golden HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6473.m3u8
+#EXTINF:-1,Latino | Golden Edge
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6474.m3u8
+#EXTINF:-1,Latino | Glitz
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6475.m3u8
+#EXTINF:-1,Latino | Gala Tv HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6477.m3u8
+#EXTINF:-1,Latino | Fox Sporm3u8 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6452.m3u8
+#EXTINF:-1,Latino | Fox Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6453.m3u8
+#EXTINF:-1,Latino | Fox Movies HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6446.m3u8
+#EXTINF:-1,Latino | Fox HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6480.m3u8
+#EXTINF:-1,Latino | Fox Cinema HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6445.m3u8
+#EXTINF:-1,Latino | Fox Action HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6443.m3u8
+#EXTINF:-1,Latino | Fox 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6481.m3u8
+#EXTINF:-1,Latino | Cinecanal+
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6484.m3u8
+#EXTINF:-1,Latino | F1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6483.m3u8
+#EXTINF:-1,Latino | ESPN 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6449.m3u8
+#EXTINF:-1,Latino | ESPN 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6450.m3u8
+#EXTINF:-1,Latino | ESPN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6448.m3u8
+#EXTINF:-1,Latino | Discovery Turbo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6490.m3u8
+#EXTINF:-1,Latino | Discovery TLC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6491.m3u8
+#EXTINF:-1,Latino | Discovery Teather HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6492.m3u8
+#EXTINF:-1,Latino | Discovery Kids
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6494.m3u8
+#EXTINF:-1,Latino | UFC Network HD {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9275.m3u8
+#EXTINF:-1,Latino | Mundo Fox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9276.m3u8
+#EXTINF:-1,Latino | HBO Signature HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9277.m3u8
+#EXTINF:-1,Latino | Unimas
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9286.m3u8
+#EXTINF:-1,Latino | Caracol
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9306.m3u8
+#EXTINF:-1,Latino | RCN*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9667.m3u8
+#EXTINF:-1,Latino | Telemundo HQ
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9669.m3u8
+#EXTINF:-1,Latino | Bein N HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9633.m3u8
+#EXTINF:-1,Latino | Discovery H&H
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9613.m3u8
+#EXTINF:-1,Latino | Discovery ID
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6495.m3u8
+#EXTINF:-1,Latino | Discovery Civilization
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6497.m3u8
+#EXTINF:-1,Latino | Discovery Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6498.m3u8
+#EXTINF:-1,Latino | De Pelicula HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6499.m3u8
+#EXTINF:-1,Latino | Comedy Central HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6500.m3u8
+#EXTINF:-1,Latino | Cine Canal HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6502.m3u8
+#EXTINF:-1,Latino | Carton Network HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6503.m3u8
+#EXTINF:-1,Latino | Canal De Las Estrellas HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6504.m3u8
+#EXTINF:-1,Latino | Canal 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6505.m3u8
+#EXTINF:-1,Latino | Canal 13
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3446.m3u8
+#EXTINF:-1,Latino | Az Click HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6511.m3u8
+#EXTINF:-1,Latino | AXN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6512.m3u8
+#EXTINF:-1,Latino | Animal Planet
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6513.m3u8
+#EXTINF:-1,Latino | A&E HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6515.m3u8
+#EXTINF:-1,============ NETHERLAND | Canal Digitaal ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6903.m3u8
+#EXTINF:-1,NL | NPO Extra
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7724.m3u8
+#EXTINF:-1,NL | Nick Toons
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7728.m3u8
+#EXTINF:-1,NL | RTV Drenthe
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7050.m3u8
+#EXTINF:-1,NL:BE | La Deux
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7052.m3u8
+#EXTINF:-1,NL:BE | MNM
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5295.m3u8
+#EXTINF:-1,NL:BE | La UN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2940.m3u8
+#EXTINF:-1,NL | RTL Z
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5831.m3u8
+#EXTINF:-1,NL | MTV Music Now
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6350.m3u8
+#EXTINF:-1,NL | Veronica / Disney XD HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2932.m3u8
+#EXTINF:-1,NL | L1 Liburg
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2926.m3u8
+#EXTINF:-1,NL | Sport1 Votbal
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1060.m3u8
+#EXTINF:-1,NL | Sport1 Racing
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5088.m3u8
+#EXTINF:-1,NL | Sport 1 Select HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2936.m3u8
+#EXTINF:-1,NL | ZIGGO Golf
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/437.m3u8
+#EXTINF:-1,NL | Sport 1 Extra 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3931.m3u8
+#EXTINF:-1,NL | Sport 1 Extra 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3932.m3u8
+#EXTINF:-1,NL | Sport 1 Extra
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5087.m3u8
+#EXTINF:-1,NL | SBS 9
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/434.m3u8
+#EXTINF:-1,NL | SBS 6 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2935.m3u8
+#EXTINF:-1,NL | RTL5HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/683.m3u8
+#EXTINF:-1,NL | RTL4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/684.m3u8
+#EXTINF:-1,NL | RTL Lounge
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/680.m3u8
+#EXTINF:-1,NL | RTL 7 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/682.m3u8
+#EXTINF:-1,NL | NPO 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/686.m3u8
+#EXTINF:-1,NL | NPO 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/687.m3u8
+#EXTINF:-1,NL | NPO 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/688.m3u8
+#EXTINF:-1,NL | EDGE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5079.m3u8
+#EXTINF:-1,NL | NET 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/689.m3u8
+#EXTINF:-1,NL | Nat Geo HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6806.m3u8
+#EXTINF:-1,NL | ID
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5076.m3u8
+#EXTINF:-1,NL | TV Oost
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5839.m3u8
+#EXTINF:-1,NL | HBO HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/692.m3u8
+#EXTINF:-1,NL | HBO 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/693.m3u8
+#EXTINF:-1,NL | HBO 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/694.m3u8
+#EXTINF:-1,NL | Fox Life
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2931.m3u8
+#EXTINF:-1,NL | Fox Sporm3u8 6
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6698.m3u8
+#EXTINF:-1,NL | Fox Sport 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2358.m3u8
+#EXTINF:-1,NL | Fox Sport 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2352.m3u8
+#EXTINF:-1,NL | Fox Sport 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2351.m3u8
+#EXTINF:-1,NL | Fox Sport 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/429.m3u8
+#EXTINF:-1,NL | Fox Sport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/430.m3u8
+#EXTINF:-1,NL | Fox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6807.m3u8
+#EXTINF:-1,NL | Film1 Sundance
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2927.m3u8
+#EXTINF:-1,NL | Film1 Spotlight
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5078.m3u8
+#EXTINF:-1,NL | Film1 Comedy and Kids
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/432.m3u8
+#EXTINF:-1,NL | Film1 Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/433.m3u8
+#EXTINF:-1,NL | Film 1 Premiere HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/431.m3u8
+#EXTINF:-1,NL | Disney JR
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5846.m3u8
+#EXTINF:-1,NL | Disney
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5075.m3u8
+#EXTINF:-1,NL | Discovery Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5086.m3u8
+#EXTINF:-1,NL | CI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/691.m3u8
+#EXTINF:-1,NL | Cartoon Network
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5077.m3u8
+#EXTINF:-1,NL |  Comedy Central Family
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5829.m3u8
+#EXTINF:-1,NL | AT 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5836.m3u8
+#EXTINF:-1,NL | TLC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5837.m3u8
+#EXTINF:-1,============ NORDIC | Canal Digital & Viasat ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6904.m3u8
+#EXTINF:-1,Nordic | YLE 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9666.m3u8
+#EXTINF:-1,Nordic | YLE 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9665.m3u8
+#EXTINF:-1,Nordic | TV4 Fakta XL ( se )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9664.m3u8
+#EXTINF:-1,Nordic | SUB ( FIN )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9655.m3u8
+#EXTINF:-1,Nordic | Nelonen Pro 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9644.m3u8
+#EXTINF:-1,Nordic | Nelonen Pro 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9645.m3u8
+#EXTINF:-1,Nordic | NELONEN PRIME
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9648.m3u8
+#EXTINF:-1,Nordic | NELONEN MAALIMA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9649.m3u8
+#EXTINF:-1,Nordic | Nelonen
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9650.m3u8
+#EXTINF:-1,Nordic | Kanala 9
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10212.m3u8
+#EXTINF:-1,Nordic | MTV Sport 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9646.m3u8
+#EXTINF:-1,Nordic | MTV Sport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9647.m3u8
+#EXTINF:-1,Nordic | MTV JINIORI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9652.m3u8
+#EXTINF:-1,Nordic | MTV FAKTA ( FIN )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9654.m3u8
+#EXTINF:-1,Nordic | MAX NORGE ( FIN )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9657.m3u8
+#EXTINF:-1,Nordic | LIV ( FIN )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9656.m3u8
+#EXTINF:-1,Nordic | JIM ( FIN )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9651.m3u8
+#EXTINF:-1,Nordic | FOX ( SE )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9653.m3u8
+#EXTINF:-1,Nordic | C More Stars HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9660.m3u8
+#EXTINF:-1,Nordic | CN (SE)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9661.m3u8
+#EXTINF:-1,Nordic | Discovery CH ( SE )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9659.m3u8
+#EXTINF:-1,Nordic | Boomerang ( SE )
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9658.m3u8
+#EXTINF:-1,Nordic | Viasat Sport Premium
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9594.m3u8
+#EXTINF:-1,Nordic | Viasat Motor HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9592.m3u8
+#EXTINF:-1,Nordic | Viasat Hockey
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9593.m3u8
+#EXTINF:-1,Nordic | Viasat Golf HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9591.m3u8
+#EXTINF:-1,Nordic | TV4 Sport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9590.m3u8
+#EXTINF:-1,Nordic | TV3 Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9589.m3u8
+#EXTINF:-1,Nordic | C More Series
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9587.m3u8
+#EXTINF:-1,Nordic | C More Hockey HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9588.m3u8
+#EXTINF:-1,Nordic | C MORE GOLF HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9586.m3u8
+#EXTINF:-1,Nordic |  C More Live
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8998.m3u8
+#EXTINF:-1,Nordic | C MORE LIVE 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8997.m3u8
+#EXTINF:-1,Nordic | C MORE LIVE 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8996.m3u8
+#EXTINF:-1,Nordic | TV2 SPORTKANLEN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8872.m3u8
+#EXTINF:-1,Nordic | TV2 SPORT PREMIUM HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8873.m3u8
+#EXTINF:-1,Nordic | TV2 SPORT PREMIUM 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8874.m3u8
+#EXTINF:-1,Nordic | TV2 SPORT PREMIUM 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8875.m3u8
+#EXTINF:-1,Nordic | TV2 SPORT PREMIUM 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8876.m3u8
+#EXTINF:-1,Nordic | TV2 SPORT PREMIUM 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8877.m3u8
+#EXTINF:-1,Nordic | TV2 Sport
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8154.m3u8
+#EXTINF:-1,Nordic | TV3 Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8163.m3u8
+#EXTINF:-1,Nordic | Viasat Series
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8489.m3u8
+#EXTINF:-1,Nordic | Viasat Film Family
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8483.m3u8
+#EXTINF:-1,Nordic | Viasat Film Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8488.m3u8
+#EXTINF:-1,Nordic | C MORE SPORT
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8486.m3u8
+#EXTINF:-1,Nordic | C MORE FIRST
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8484.m3u8
+#EXTINF:-1,Nordic | C MORE EMOTION
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8485.m3u8
+#EXTINF:-1,Nordic | TV4 Film
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8159.m3u8
+#EXTINF:-1,Nordic | TV3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8160.m3u8
+#EXTINF:-1,Nordic | NRK 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8162.m3u8
+#EXTINF:-1,Nordic | SVT2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8140.m3u8
+#EXTINF:-1,Nordic | SVT1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8139.m3u8
+#EXTINF:-1,Nordic | TV4 Guld
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8145.m3u8
+#EXTINF:-1,Nordic | DR2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8142.m3u8
+#EXTINF:-1,Nordic | Viasat OS VISPORT
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8143.m3u8
+#EXTINF:-1,Nordic | Vox Norway
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8772.m3u8
+#EXTINF:-1,Nordic | TV8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8765.m3u8
+#EXTINF:-1,Nordic | TV10
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8767.m3u8
+#EXTINF:-1,Nordic | Kanal 11 sw
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8768.m3u8
+#EXTINF:-1,Nordic | C More Tennis
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8773.m3u8
+#EXTINF:-1,Nordic | TV6
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8150.m3u8
+#EXTINF:-1,Nordic | TV3 Sport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8149.m3u8
+#EXTINF:-1,Nordic | C More Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7908.m3u8
+#EXTINF:-1,Nordic | Viasat Fotboll HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7948.m3u8
+#EXTINF:-1,Nordic | Viasat Film Premier
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6530.m3u8
+#EXTINF:-1,Nordic | Viasat Film Him3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6298.m3u8
+#EXTINF:-1,Nordic | Viasat Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7352.m3u8
+#EXTINF:-1,Nordic | VIASAT Sport
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7277.m3u8
+#EXTINF:-1,Nordic | C More Him3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3969.m3u8
+#EXTINF:-1,Nordic | C More Fotboll
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/152.m3u8
+#EXTINF:-1,Nordic | NRK 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7379.m3u8
+#EXTINF:-1,Nordic | Disney XD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7280.m3u8
+#EXTINF:-1,Nordic | Kanal 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7371.m3u8
+#EXTINF:-1,Nordic | TV 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7265.m3u8
+#EXTINF:-1,Nordic | TV7 Plus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5279.m3u8
+#EXTINF:-1,============ Thailand | MIX HD ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8034.m3u8
+#EXTINF:-1,ML | Astro Vinmeen HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8633.m3u8
+#EXTINF:-1,ML | Astro Vellithirai
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8634.m3u8
+#EXTINF:-1,ML | Astro Prima
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8635.m3u8
+#EXTINF:-1,ML | MioSporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8636.m3u8
+#EXTINF:-1,THL | ITV CHoice
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8632.m3u8
+#EXTINF:-1,THL | DiscoveryCh(HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8629.m3u8
+#EXTINF:-1,THL | Xing Kong STAR TV Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9632.m3u8
+#EXTINF:-1,THL | TVN HD Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9619.m3u8
+#EXTINF:-1,THL | TRACE Sporm3u8tars Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9620.m3u8
+#EXTINF:-1,THL | Times Now Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9621.m3u8
+#EXTINF:-1,THL | Ten Cricket Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9622.m3u8
+#EXTINF:-1,THL | Surya TV Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9623.m3u8
+#EXTINF:-1,THL | Sundance Channel Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9624.m3u8
+#EXTINF:-1,THL | Trace Sporm3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9625.m3u8
+#EXTINF:-1,THL | STAR Gold Singtel TV Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9626.m3u8
+#EXTINF:-1,THL | Sony MAX Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9627.m3u8
+#EXTINF:-1,THL | Sky News HD Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9628.m3u8
+#EXTINF:-1,THL | Setanta Sporm3u8 Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9629.m3u8
+#EXTINF:-1,THL | SET(HINDI)Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9630.m3u8
+#EXTINF:-1,THL | Sky News Singitel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9631.m3u8
+#EXTINF:-1,THL | NDTV India Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9618.m3u8
+#EXTINF:-1,THL | Channel VIndia Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9616.m3u8
+#EXTINF:-1,THL | Australia Plus TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9614.m3u8
+#EXTINF:-1,THL | AMC(HD)Singtel TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9615.m3u8
+#EXTINF:-1,THL | WarnerTV(HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8014.m3u8
+#EXTINF:-1,THL | SundanceChannel {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8015.m3u8
+#EXTINF:-1,THL | Sony Channel(HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8016.m3u8
+#EXTINF:-1,THL | NatGeoWildHD {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8017.m3u8
+#EXTINF:-1,THL | NatGeoPeopleHD {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8018.m3u8
+#EXTINF:-1,THL | NatGeoChHD {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8019.m3u8
+#EXTINF:-1,THL | KixHD {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8021.m3u8
+#EXTINF:-1,THL | ITVChoice(HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8022.m3u8
+#EXTINF:-1,THL | Eve(HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8024.m3u8
+#EXTINF:-1,THL | Setanta Sport {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8025.m3u8
+#EXTINF:-1,THL | DMAX (HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8027.m3u8
+#EXTINF:-1,THL | DIVAHD {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8028.m3u8
+#EXTINF:-1,THL | Ten Cricket {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8029.m3u8
+#EXTINF:-1,THL | DiscoveryHDWorld {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8030.m3u8
+#EXTINF:-1,THL | ComedyCentral(HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8032.m3u8
+#EXTINF:-1,THL | Animal Planet(HD) {EN}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8033.m3u8
+#EXTINF:-1,============ POLAND | NC+ & Cyfrowy ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6932.m3u8
+#EXTINF:-1,PL | TVN Turbo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7387.m3u8
+#EXTINF:-1,PL | TVN Style
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7388.m3u8
+#EXTINF:-1,PL | TVN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7391.m3u8
+#EXTINF:-1,PL | Polsat Sport Extra HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8844.m3u8
+#EXTINF:-1,PL | Polsat Cafe
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8837.m3u8
+#EXTINF:-1,PL | Filmbox Premium
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8843.m3u8
+#EXTINF:-1,PL | TV PULS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7393.m3u8
+#EXTINF:-1,PL | Polsat News
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7395.m3u8
+#EXTINF:-1,PL | Polsat 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7396.m3u8
+#EXTINF:-1,PL | TVP SERIALE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7886.m3u8
+#EXTINF:-1,PL | Polsat Romans
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7890.m3u8
+#EXTINF:-1,PL | ORANGE SPORT
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7892.m3u8
+#EXTINF:-1,PL | Filmbox Family
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7895.m3u8
+#EXTINF:-1,PL | Filmbox Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7896.m3u8
+#EXTINF:-1,PL | Filmbox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7897.m3u8
+#EXTINF:-1,PL | Disney XD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7898.m3u8
+#EXTINF:-1,PL | Disney HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7899.m3u8
+#EXTINF:-1,PL | AXN SPIN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7901.m3u8
+#EXTINF:-1,============ PORTUGAL | Meo ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6901.m3u8
+#EXTINF:-1,PT:BR | TV RECORD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2918.m3u8
+#EXTINF:-1,PT:BR | TV GLOBO
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4250.m3u8
+#EXTINF:-1,PT:BR | PFC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3167.m3u8
+#EXTINF:-1,PT:BR | REDE RECORD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7608.m3u8
+#EXTINF:-1,PT | RTP 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/225.m3u8
+#EXTINF:-1,PT | RTP 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/226.m3u8
+#EXTINF:-1,PT | RTP 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7590.m3u8
+#EXTINF:-1,PT | FIGHT NETWORK HD {ENG}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9147.m3u8
+#EXTINF:-1,PT | RTP Internacional
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8909.m3u8
+#EXTINF:-1,PT | Eurosport 2 Xtra HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8911.m3u8
+#EXTINF:-1,PT | Econ?mico TV  HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8912.m3u8
+#EXTINF:-1,PT | CAPELINHA DAS APARI??ES F?TIMA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8914.m3u8
+#EXTINF:-1,PT | Cancao Nova
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8915.m3u8
+#EXTINF:-1,PT | Sic
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/227.m3u8
+#EXTINF:-1,PT | SIC K
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7596.m3u8
+#EXTINF:-1,PT | TVI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/228.m3u8
+#EXTINF:-1,PT | TVI 24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7591.m3u8
+#EXTINF:-1,PT | TVI Reality
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6282.m3u8
+#EXTINF:-1,PT | TVI FICAO
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2718.m3u8
+#EXTINF:-1,PT | SIC MULHER
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5717.m3u8
+#EXTINF:-1,PT | Sic Radical
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2709.m3u8
+#EXTINF:-1,PT | Sic Caras
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5274.m3u8
+#EXTINF:-1,PT | PORTO CANAL
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2706.m3u8
+#EXTINF:-1,PT | RTP MADEIRA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7593.m3u8
+#EXTINF:-1,PT | RTP ACORES
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7594.m3u8
+#EXTINF:-1,PT | TVCine 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/209.m3u8
+#EXTINF:-1,PT | TVCine 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/210.m3u8
+#EXTINF:-1,PT | TVCine 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/211.m3u8
+#EXTINF:-1,PT | TVCine 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/212.m3u8
+#EXTINF:-1,PT | TV Cine 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2920.m3u8
+#EXTINF:-1,PT | TOROS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7600.m3u8
+#EXTINF:-1,PT | Hollywood
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2917.m3u8
+#EXTINF:-1,PT | AMC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5718.m3u8
+#EXTINF:-1,PT | Fox Movies
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2715.m3u8
+#EXTINF:-1,PT | Cinemundo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4252.m3u8
+#EXTINF:-1,PT | AXN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1646.m3u8
+#EXTINF:-1,PT | AXN WHITE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2712.m3u8
+#EXTINF:-1,PT | AXN BLACK HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2919.m3u8
+#EXTINF:-1,PT | FOX HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5534.m3u8
+#EXTINF:-1,PT | Fox Life HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1650.m3u8
+#EXTINF:-1,PT |  FOX CRIME HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7599.m3u8
+#EXTINF:-1,PT | Fox Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1649.m3u8
+#EXTINF:-1,PT | E! ENTERTAINMENT
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5724.m3u8
+#EXTINF:-1,PT | CBS Reality
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4255.m3u8
+#EXTINF:-1,PT | Syfy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2717.m3u8
+#EXTINF:-1,PT | MOV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4254.m3u8
+#EXTINF:-1,PT | SPORTING TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5547.m3u8
+#EXTINF:-1,PT | SPORT TV 1 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5543.m3u8
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/202.m3u8
+#EXTINF:-1,PT | SPORT TV 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/203.m3u8
+#EXTINF:-1,PT | SPORT TV 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/204.m3u8
+#EXTINF:-1,PT | SPORT TV 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/205.m3u8
+#EXTINF:-1,PT | SPORT TV 5 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5545.m3u8
+#EXTINF:-1,PT | SPORT TV 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/206.m3u8
+#EXTINF:-1,PT | Benfica TV 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/207.m3u8
+#EXTINF:-1,PT | Afro Music
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/213.m3u8
+#EXTINF:-1,PT | Eurosport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1653.m3u8
+#EXTINF:-1,PT | Eurosport 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2708.m3u8
+#EXTINF:-1,PT | MOTORVISION
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7598.m3u8
+#EXTINF:-1,PT | Fuel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5722.m3u8
+#EXTINF:-1,PT | CM TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5721.m3u8
+#EXTINF:-1,PT | Nat Geo HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6166.m3u8
+#EXTINF:-1,PT | Nat Geo Wild
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1648.m3u8
+#EXTINF:-1,PT | DISCOVERY
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2716.m3u8
+#EXTINF:-1,PT | TLC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7602.m3u8
+#EXTINF:-1,PT | Odissea
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4249.m3u8
+#EXTINF:-1,PT | Historia
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4257.m3u8
+#EXTINF:-1,PT | A&E
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5723.m3u8
+#EXTINF:-1,PT | 24 KITCHEN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5719.m3u8
+#EXTINF:-1,PT | CAZA E PESCA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6725.m3u8
+#EXTINF:-1,PT | Sic Noticias
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2711.m3u8
+#EXTINF:-1,PT | Nick
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4253.m3u8
+#EXTINF:-1,PT | Disney JR
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5770.m3u8
+#EXTINF:-1,PT | Disney
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2714.m3u8
+#EXTINF:-1,PT | CN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5877.m3u8
+#EXTINF:-1,PT | Jim Jam
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6724.m3u8
+#EXTINF:-1,PT | CANAL PANDA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2713.m3u8
+#EXTINF:-1,PT | Bigss
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3159.m3u8
+#EXTINF:-1,PT | CMTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5769.m3u8
+#EXTINF:-1,PT | A BOLA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5546.m3u8
+#EXTINF:-1,============ ROMANIA | Digi TV ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6915.m3u8
+#EXTINF:-1,RO | Digi Sport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5848.m3u8
+#EXTINF:-1,RO | Digi Sport 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5849.m3u8
+#EXTINF:-1,RO | Digi Sport 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5850.m3u8
+#EXTINF:-1,RO | Digi Sport 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6354.m3u8
+#EXTINF:-1,RO | Antena 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8829.m3u8
+#EXTINF:-1,============ Russia | Mix ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9716.m3u8
+#EXTINF:-1,RU | TV1000 Rus
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9284.m3u8
+#EXTINF:-1,RU | Our Footbal
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9272.m3u8
+#EXTINF:-1,============ TURKEY | Digiturk ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6914.m3u8
+#EXTINF:-1,TR | Sinema Aile HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6995.m3u8
+#EXTINF:-1,TR | SINEMA Nostalji
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6997.m3u8
+#EXTINF:-1,TR | CINESTAR TURK 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6814.m3u8
+#EXTINF:-1,TR | CINESTAR TURK
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6813.m3u8
+#EXTINF:-1,TR | CINESTAR KOMEDI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6810.m3u8
+#EXTINF:-1,TR | CINESTAR GERILIM
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6808.m3u8
+#EXTINF:-1,TR | SPORm3u8 TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9743.m3u8
+#EXTINF:-1,TR TRT SPOR HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9742.m3u8
+#EXTINF:-1,TR | CINESTAR AILE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6809.m3u8
+#EXTINF:-1,TR | LIG 1 HD LC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7282.m3u8
+#EXTINF:-1,TR | CINESTAR NOSTALJI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6974.m3u8
+#EXTINF:-1,TR | CNN TURK
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6969.m3u8
+#EXTINF:-1,TR | TRT HABER HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6970.m3u8
+#EXTINF:-1,TR | DISCOVERY CHANNEL HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6973.m3u8
+#EXTINF:-1,TR | CBC Sport
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9289.m3u8
+#EXTINF:-1,TR | TIVIBU  SPOR 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8994.m3u8
+#EXTINF:-1,TR | TIVIBU  SPOR 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8993.m3u8
+#EXTINF:-1,TR | TIVIBU  SPOR 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8992.m3u8
+#EXTINF:-1,TR | TIVIBU  SPOR 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8991.m3u8
+#EXTINF:-1,TR | Smar Sport HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8626.m3u8
+#EXTINF:-1,TR | Smar Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8627.m3u8
+#EXTINF:-1,TR | LIG TV 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1961.m3u8
+#EXTINF:-1,TR | LIG TV 2 HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1960.m3u8
+#EXTINF:-1,TR | LIGTV 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1959.m3u8
+#EXTINF:-1,TR | Kanal D
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8356.m3u8
+#EXTINF:-1,TR | LIG TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6259.m3u8
+#EXTINF:-1,TR | LIG TV 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6258.m3u8
+#EXTINF:-1,TR | LIG TV 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6261.m3u8
+#EXTINF:-1,TR | TRT 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5815.m3u8
+#EXTINF:-1,TR | Euro D
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2724.m3u8
+#EXTINF:-1,============ ENGLAND | Sky UK ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6899.m3u8
+#EXTINF:-1,UK | Yesterday
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2673.m3u8
+#EXTINF:-1,UK | Watch
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1891.m3u8
+#EXTINF:-1,UK | Nick Toons
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6690.m3u8
+#EXTINF:-1,UK | Universal
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6670.m3u8
+#EXTINF:-1,UK | True Movies 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/395.m3u8
+#EXTINF:-1,UK | BBC Two Scotland
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8676.m3u8
+#EXTINF:-1,UK | BBC Alba
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8678.m3u8
+#EXTINF:-1,UK | BT Sport 3 HD Backup* HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9271.m3u8
+#EXTINF:-1,UK | SKY MOVIES ACTION&ADVENTURE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8920.m3u8
+#EXTINF:-1,UK | SKY CINEMA SELECT HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8921.m3u8
+#EXTINF:-1,UK | SKY CINEMA SCI-FI/HORROR HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8919.m3u8
+#EXTINF:-1,UK | SKY CINEMA PREMIERE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8922.m3u8
+#EXTINF:-1,UK | SKY CINEMA GREAm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8918.m3u8
+#EXTINF:-1,UK | SKY CINEMA DRAMA&ROMANCE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8917.m3u8
+#EXTINF:-1,UK | SKY CINEMA COMEDY HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8916.m3u8
+#EXTINF:-1,UK | W   1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10101.m3u8
+#EXTINF:-1,UK | Universal  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10111.m3u8
+#EXTINF:-1,UK | TLC   1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10104.m3u8
+#EXTINF:-1,UK | Tiny Pop  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10099.m3u8
+#EXTINF:-1,UK | Syfy   1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10105.m3u8
+#EXTINF:-1,UK | Sony Chnl   1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10106.m3u8
+#EXTINF:-1,UK | Sky Living  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10114.m3u8
+#EXTINF:-1,UK | Sky Cinema Premiere  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10122.m3u8
+#EXTINF:-1,UK | Sky Atlantic  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10113.m3u8
+#EXTINF:-1,UK | Nick Jr  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10098.m3u8
+#EXTINF:-1,UK | MTV  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10107.m3u8
+#EXTINF:-1,UK | ID   1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10108.m3u8
+#EXTINF:-1,UK | Horror Channel  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10123.m3u8
+#EXTINF:-1,UK | Home&Health  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10115.m3u8
+#EXTINF:-1,UK | History  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10116.m3u8
+#EXTINF:-1,UK | Food Network  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10112.m3u8
+#EXTINF:-1,UK | E!   1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10109.m3u8
+#EXTINF:-1,UK | Disney XD  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10100.m3u8
+#EXTINF:-1,UK | Disney Channel  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10096.m3u8
+#EXTINF:-1,UK | Discovery Science  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10119.m3u8
+#EXTINF:-1,UK | Discovery History  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10120.m3u8
+#EXTINF:-1,UK | Discovery  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10118.m3u8
+#EXTINF:-1,UK | Crime investigation  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10121.m3u8
+#EXTINF:-1,UK | Comedy Central Extra  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10110.m3u8
+#EXTINF:-1,UK | Challenge   1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10102.m3u8
+#EXTINF:-1,UK | Animal Planet  1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10117.m3u8
+#EXTINF:-1,UK | 3E
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8864.m3u8
+#EXTINF:-1,UK | BBC 1 Scotland
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8680.m3u8
+#EXTINF:-1,UK | BBC 2 Sco
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8752.m3u8
+#EXTINF:-1,UK | Eir Sport 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8659.m3u8
+#EXTINF:-1,UK | Eir Sport 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8658.m3u8
+#EXTINF:-1,UK | BT Sport Extra 6
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8665.m3u8
+#EXTINF:-1,UK | BT Sport Extra 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8664.m3u8
+#EXTINF:-1,UK | BT Sport Extra 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8663.m3u8
+#EXTINF:-1,UK | BT Sport Extra 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8662.m3u8
+#EXTINF:-1,UK | BT Sport Extra 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8661.m3u8
+#EXTINF:-1,UK | BT Sport Extra 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8660.m3u8
+#EXTINF:-1,UK | TG4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4760.m3u8
+#EXTINF:-1,UK | Syfy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6667.m3u8
+#EXTINF:-1,UK | Discovery World
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6694.m3u8
+#EXTINF:-1,UK | H2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/96.m3u8
+#EXTINF:-1,UK | TLC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6695.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8051.m3u8
+#EXTINF:-1,UK | Sky Sport News HQ
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/47.m3u8
+#EXTINF:-1,UK | Sky Sport 5 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/18.m3u8
+#EXTINF:-1,UK | Sky Sport 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10.m3u8
+#EXTINF:-1,UK | Sky Sport 4 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/17.m3u8
+#EXTINF:-1,UK | Sky Sport 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9.m3u8
+#EXTINF:-1,UK | Sky Sport 3 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/16.m3u8
+#EXTINF:-1,UK | Sky Sport 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8.m3u8
+#EXTINF:-1,UK | Sky Sport 2 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/15.m3u8
+#EXTINF:-1,UK | Sky Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7.m3u8
+#EXTINF:-1,UK | Sky Sport 1 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/14.m3u8
+#EXTINF:-1,UK | Sky Sporm3u8 HD 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6.m3u8
+#EXTINF:-1,UK | Sky One
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/52.m3u8
+#EXTINF:-1,UK | Sky Two
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8045.m3u8
+#EXTINF:-1,UK | Sky News
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2650.m3u8
+#EXTINF:-1,UK | Sky Movies Thriller
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/26.m3u8
+#EXTINF:-1,UK | Sky Movies Showcase
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3255.m3u8
+#EXTINF:-1,UK | Sky Movies Select
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/20.m3u8
+#EXTINF:-1,UK | Sky Movies Premiere
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/24.m3u8
+#EXTINF:-1,UK | Sky Movies Gream3u8
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/30.m3u8
+#EXTINF:-1,UK | Sky Movies Family
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/28.m3u8
+#EXTINF:-1,UK | Sky Movies Disney
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/27.m3u8
+#EXTINF:-1,UK | Sky Movies Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/23.m3u8
+#EXTINF:-1,UK | Sky Movies Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/22.m3u8
+#EXTINF:-1,UK | Sky Movie Sci-Fi
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/21.m3u8
+#EXTINF:-1,UK | Sky Living
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/31.m3u8
+#EXTINF:-1,UK | Sky Drama & Romance
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/29.m3u8
+#EXTINF:-1,UK | Sky Atlantic
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/48.m3u8
+#EXTINF:-1,UK | Sky Arm3u8 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1895.m3u8
+#EXTINF:-1,UK | Setanta
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/69.m3u8
+#EXTINF:-1,UK | SBO PPV {LIVE BOX OFFICE}
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6611.m3u8
+#EXTINF:-1,UK | RTE 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/56.m3u8
+#EXTINF:-1,UK | RTE 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/55.m3u8
+#EXTINF:-1,UK | ITV Encore
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2672.m3u8
+#EXTINF:-1,UK | Real Lives
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/75.m3u8
+#EXTINF:-1,UK | Racing
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2878.m3u8
+#EXTINF:-1,UK | Premier Sport
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3496.m3u8
+#EXTINF:-1,UK | Amc
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6680.m3u8
+#EXTINF:-1,UK | Pick
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/99.m3u8
+#EXTINF:-1,UK | Nickloedon
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/57.m3u8
+#EXTINF:-1,UK | Nick JR
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6060.m3u8
+#EXTINF:-1,UK | National Geographic
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/59.m3u8
+#EXTINF:-1,UK | Nat Geo Wild
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/86.m3u8
+#EXTINF:-1,UK | MUTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2783.m3u8
+#EXTINF:-1,UK | Motors
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3341.m3u8
+#EXTINF:-1,UK | More 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2670.m3u8
+#EXTINF:-1,UK | Living
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2680.m3u8
+#EXTINF:-1,UK | VH1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6675.m3u8
+#EXTINF:-1,UK | LFCTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2877.m3u8
+#EXTINF:-1,UK | KISS TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6691.m3u8
+#EXTINF:-1,UK | Cbeebies
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/84.m3u8
+#EXTINF:-1,UK | ITV Be
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2694.m3u8
+#EXTINF:-1,UK | ITV 4 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/74.m3u8
+#EXTINF:-1,UK | ITV 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2631.m3u8
+#EXTINF:-1,UK | ITV 3 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/73.m3u8
+#EXTINF:-1,UK | ITV 2 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/72.m3u8
+#EXTINF:-1,UK | ITV 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2633.m3u8
+#EXTINF:-1,UK | ITV 1 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/71.m3u8
+#EXTINF:-1,UK | ITV 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2634.m3u8
+#EXTINF:-1,UK | ID
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1884.m3u8
+#EXTINF:-1,UK | Horror
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6676.m3u8
+#EXTINF:-1,UK | Home
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3374.m3u8
+#EXTINF:-1,UK | History
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/98.m3u8
+#EXTINF:-1,UK | Baby TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/766.m3u8
+#EXTINF:-1,UK | Gold
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2635.m3u8
+#EXTINF:-1,UK | Fox
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/396.m3u8
+#EXTINF:-1,UK | Food
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/100.m3u8
+#EXTINF:-1,UK | Fine Living
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6665.m3u8
+#EXTINF:-1,UK | F1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/19.m3u8
+#EXTINF:-1,UK | Eurosport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2638.m3u8
+#EXTINF:-1,UK | Eurosport
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/64.m3u8
+#EXTINF:-1,UK | Eden
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6669.m3u8
+#EXTINF:-1,UK | E4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/764.m3u8
+#EXTINF:-1,UK | E!
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/95.m3u8
+#EXTINF:-1,UK | Drama
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/89.m3u8
+#EXTINF:-1,UK | DMax
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2669.m3u8
+#EXTINF:-1,UK | Disney XD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/67.m3u8
+#EXTINF:-1,UK | Disney Junior
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/50.m3u8
+#EXTINF:-1,UK | Disney
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/87.m3u8
+#EXTINF:-1,UK | Discovery Turbo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/83.m3u8
+#EXTINF:-1,UK | Discovery Shed
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6677.m3u8
+#EXTINF:-1,UK | Discovery Science
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1894.m3u8
+#EXTINF:-1,UK | Discovery Home & Health
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6678.m3u8
+#EXTINF:-1,UK | Discovery History
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/82.m3u8
+#EXTINF:-1,UK | DISCOVERY
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1896.m3u8
+#EXTINF:-1,UK | Dave
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2632.m3u8
+#EXTINF:-1,UK | CN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/93.m3u8
+#EXTINF:-1,UK | Chelsea TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/63.m3u8
+#EXTINF:-1,UK | Channel 5
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1885.m3u8
+#EXTINF:-1,UK | Channel 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1886.m3u8
+#EXTINF:-1,UK | Challange
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6666.m3u8
+#EXTINF:-1,UK | Sky Living +1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2123.m3u8
+#EXTINF:-1,UK | CC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2671.m3u8
+#EXTINF:-1,UK | CBS Reality
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2696.m3u8
+#EXTINF:-1,UK | CBS Action
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3016.m3u8
+#EXTINF:-1,UK | BT Sport Europe HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3502.m3u8
+#EXTINF:-1,UK | BT Sport ESPN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2781.m3u8
+#EXTINF:-1,UK | BT Sport 2 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/13.m3u8
+#EXTINF:-1,UK | BT Sport 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3373.m3u8
+#EXTINF:-1,UK | BT Sport 1 SD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6696.m3u8
+#EXTINF:-1,UK | BT Sport 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/12.m3u8
+#EXTINF:-1,UK | Boxnation
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/60.m3u8
+#EXTINF:-1,UK | Boomerang
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1887.m3u8
+#EXTINF:-1,UK | BBC NEWS 24
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6662.m3u8
+#EXTINF:-1,UK | TMC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2642.m3u8
+#EXTINF:-1,UK | BBC 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2648.m3u8
+#EXTINF:-1,UK | BBC 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/765.m3u8
+#EXTINF:-1,UK | BBC 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/76.m3u8
+#EXTINF:-1,UK | BBC 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/763.m3u8
+#EXTINF:-1,UK | At The Races
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2643.m3u8
+#EXTINF:-1,UK | Animal Planet
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/49.m3u8
+#EXTINF:-1,UK | Alibi
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2117.m3u8
+#EXTINF:-1,UK | 5 USA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2637.m3u8
+#EXTINF:-1,UK | 5 Star
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/33.m3u8
+#EXTINF:-1,UK | CI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2628.m3u8
+#EXTINF:-1,============ USA | DISH ============
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6900.m3u8
+#EXTINF:-1,CA | SNW HD(L)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8879.m3u8
+#EXTINF:-1,CA | SN WEST HD(L)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8880.m3u8
+#EXTINF:-1,USA | PBS HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10088.m3u8
+#EXTINF:-1,USA | CW HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10091.m3u8
+#EXTINF:-1,USA | CN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10090.m3u8
+#EXTINF:-1,USA | UHD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10383.m3u8
+#EXTINF:-1,USA | VERSUS HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10373.m3u8
+#EXTINF:-1,USA | m3u8N 5 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10378.m3u8
+#EXTINF:-1,USA | m3u8N 4 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10377.m3u8
+#EXTINF:-1,USA | m3u8N 3 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10376.m3u8
+#EXTINF:-1,USA | m3u8N 1 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10374.m3u8
+#EXTINF:-1,USA | TNT HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10336.m3u8
+#EXTINF:-1,USA | TLC HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10343.m3u8
+#EXTINF:-1,USA | TBS HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10339.m3u8
+#EXTINF:-1,USA | SYFY HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10337.m3u8
+#EXTINF:-1,USA | SPIKE HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10338.m3u8
+#EXTINF:-1,USA | SNWL HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10381.m3u8
+#EXTINF:-1,USA | SN 1 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10379.m3u8
+#EXTINF:-1,USA | SHOWTIME 2 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10352.m3u8
+#EXTINF:-1,USA | SHOWCASE HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10353.m3u8
+#EXTINF:-1,USA | NS 360 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10380.m3u8
+#EXTINF:-1,USA | NFL HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10333.m3u8
+#EXTINF:-1,USA | NBA TV HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10369.m3u8
+#EXTINF:-1,USA | NATIONAL GEOGRAPHIC HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10361.m3u8
+#EXTINF:-1,USA | Nat Geo Wild HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10362.m3u8
+#EXTINF:-1,USA | Starz Encore HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10354.m3u8
+#EXTINF:-1,USA | MOVIES 7 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10355.m3u8
+#EXTINF:-1,USA | MOVIES 6 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10350.m3u8
+#EXTINF:-1,USA | MOVIES 2 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10346.m3u8
+#EXTINF:-1,USA | MLB NETWORK HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10370.m3u8
+#EXTINF:-1,USA | LMN HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10335.m3u8
+#EXTINF:-1,USA | Lifetime HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10341.m3u8
+#EXTINF:-1,USA | NBC HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10328.m3u8
+#EXTINF:-1,USA | INVESTIGATION DESCOVERY HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10363.m3u8
+#EXTINF:-1,USA | HISTORY 2 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10358.m3u8
+#EXTINF:-1,USA | FS 2 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10368.m3u8
+#EXTINF:-1,USA | ESTV HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10330.m3u8
+#EXTINF:-1,USA | ESPN 2 HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10366.m3u8
+#EXTINF:-1,USA | DISCOVERY CHANNEL HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10360.m3u8
+#EXTINF:-1,USA | COMEDY CENTRAL HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10340.m3u8
+#EXTINF:-1,USA | ANIMAL PLANET HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10359.m3u8
+#EXTINF:-1,USA | AMC HD DISH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10331.m3u8
+#EXTINF:-1,USA/CA | Unis TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10041.m3u8
+#EXTINF:-1,USA/CA | Teletoon
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10049.m3u8
+#EXTINF:-1,USA/CA | Space HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10042.m3u8
+#EXTINF:-1,USA/CA | Sneak Peek GMA
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10070.m3u8
+#EXTINF:-1,USA/CA | SN1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10077.m3u8
+#EXTINF:-1,USA/CA | Viceland
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10086.m3u8
+#EXTINF:-1,USA/CA | Q13 News HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10072.m3u8
+#EXTINF:-1,USA/CA | PBS Kids(KCm3u89) HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10074.m3u8
+#EXTINF:-1,USA/CA | NBC News
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10073.m3u8
+#EXTINF:-1,USA/CA | NBC Golf
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10076.m3u8
+#EXTINF:-1,USA/CA | Much
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10043.m3u8
+#EXTINF:-1,USA/CA | MTV 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10044.m3u8
+#EXTINF:-1,USA/CA | MTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10045.m3u8
+#EXTINF:-1,USA/CA | Movie 20
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10085.m3u8
+#EXTINF:-1,USA/CA | Movie 19
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10066.m3u8
+#EXTINF:-1,USA/CA | Movie 18 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10051.m3u8
+#EXTINF:-1,USA/CA | Movie 17 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10047.m3u8
+#EXTINF:-1,USA/CA | MLB
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10078.m3u8
+#EXTINF:-1,USA/CA | History HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10046.m3u8
+#EXTINF:-1,USA/CA | Global News HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10084.m3u8
+#EXTINF:-1,USA/CA | Food Network HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10048.m3u8
+#EXTINF:-1,USA/CA | Diy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10050.m3u8
+#EXTINF:-1,USA/CA | Disney XD HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10082.m3u8
+#EXTINF:-1,USA/CA | Disney Jr
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10079.m3u8
+#EXTINF:-1,USA/CA | Disney Channel* HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10080.m3u8
+#EXTINF:-1,USA/CA | Disney Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10081.m3u8
+#EXTINF:-1,USA/CA | DejaView
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10052.m3u8
+#EXTINF:-1,USA/CA | CTV(ABC NEWS)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10067.m3u8
+#EXTINF:-1,USA/CA | CTV COLORS
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10069.m3u8
+#EXTINF:-1,USA/CA | Cottage Life
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10057.m3u8
+#EXTINF:-1,USA/CA | Cosmo TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10054.m3u8
+#EXTINF:-1,USA/CA | CN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10075.m3u8
+#EXTINF:-1,USA/CA | CBS News HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10083.m3u8
+#EXTINF:-1,USA/CA | CBS HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10071.m3u8
+#EXTINF:-1,USA/CA | BT HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10068.m3u8
+#EXTINF:-1,USA/CA | Bravo
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10055.m3u8
+#EXTINF:-1,USA/CA | Book Television
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10056.m3u8
+#EXTINF:-1,USA/CA | BNN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10058.m3u8
+#EXTINF:-1,USA/CA | BBC Cananda
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10059.m3u8
+#EXTINF:-1,USA/CA | Apac
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10053.m3u8
+#EXTINF:-1,USA/CA | ANimal Planet
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10060.m3u8
+#EXTINF:-1,USA/CA | AMI 1
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10061.m3u8
+#EXTINF:-1,USA/CA | ABC Spark HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10063.m3u8
+#EXTINF:-1,USA/CA | Vision
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10006.m3u8
+#EXTINF:-1,USA/CA | TVA HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10000.m3u8
+#EXTINF:-1,USA/CA | m3u8N 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10007.m3u8
+#EXTINF:-1,USA/CA | TLC HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9997.m3u8
+#EXTINF:-1,USA/CA | The Weather Network HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10011.m3u8
+#EXTINF:-1,USA/CA | T E
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10009.m3u8
+#EXTINF:-1,USA/CA | T
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10034.m3u8
+#EXTINF:-1,USA/CA | Sundance Channel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9996.m3u8
+#EXTINF:-1,USA/CA | SN360 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10017.m3u8
+#EXTINF:-1,USA/CA | RDI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10019.m3u8
+#EXTINF:-1,USA/CA | OWN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10020.m3u8
+#EXTINF:-1,USA/CA | One Fit
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10022.m3u8
+#EXTINF:-1,USA/CA | OLN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10021.m3u8
+#EXTINF:-1,USA/CA | Nick jr
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10023.m3u8
+#EXTINF:-1,USA/CA | Nat Geo Wild HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10025.m3u8
+#EXTINF:-1,USA/CA | Nat Geo HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10024.m3u8
+#EXTINF:-1,USA/CA | Movie 16 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10016.m3u8
+#EXTINF:-1,USA/CA | Movie 15 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10015.m3u8
+#EXTINF:-1,USA/CA | Movie 14
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10014.m3u8
+#EXTINF:-1,USA/CA | Movie 13
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10013.m3u8
+#EXTINF:-1,USA/CA | Movie 12 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10010.m3u8
+#EXTINF:-1,USA/CA | Movie 11 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9998.m3u8
+#EXTINF:-1,USA/CA | Movie 10 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9995.m3u8
+#EXTINF:-1,USA/CA | Mini TFO
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9999.m3u8
+#EXTINF:-1,USA/CA | Lifetime HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10027.m3u8
+#EXTINF:-1,USA/CA | Leaf TV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10028.m3u8
+#EXTINF:-1,USA/CA | KIDS HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10005.m3u8
+#EXTINF:-1,USA/CA | Kids 4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10038.m3u8
+#EXTINF:-1,USA/CA | Kids 3
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10035.m3u8
+#EXTINF:-1,USA/CA | Kids 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10008.m3u8
+#EXTINF:-1,USA/CA | K: HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10029.m3u8
+#EXTINF:-1,USA/CA | IFC
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10030.m3u8
+#EXTINF:-1,USA/CA | HGTV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10031.m3u8
+#EXTINF:-1,USA/CA | Gusto
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10026.m3u8
+#EXTINF:-1,USA/CA | G4
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10032.m3u8
+#EXTINF:-1,USA/CA | Discovery Science
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10039.m3u8
+#EXTINF:-1,USA/CA | D TOUR HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10036.m3u8
+#EXTINF:-1,USA/CA | Comedy HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10012.m3u8
+#EXTINF:-1,USA/CA | CHCH
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10002.m3u8
+#EXTINF:-1,USA/CA | CBC HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10001.m3u8
+#EXTINF:-1,USA/CA | A&E HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10004.m3u8
+#EXTINF:-1,USA/CA | 100 Huntley Street HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/10003.m3u8
+#EXTINF:-1,USA/CA | Love Nature HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9994.m3u8
+#EXTINF:-1,USA/CA W HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9975.m3u8
+#EXTINF:-1,USA/CA W Movies HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9980.m3u8
+#EXTINF:-1,USA/CA | City HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9990.m3u8
+#EXTINF:-1,USA/CA Smithonian Channel HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9991.m3u8
+#EXTINF:-1,USA/CA Slice HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9976.m3u8
+#EXTINF:-1,USA/CA Fishing *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9992.m3u8
+#EXTINF:-1,USA/CA CTV Two *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9979.m3u8
+#EXTINF:-1,USA/CA CTV HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9978.m3u8
+#EXTINF:-1,USA/CA Bravo HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9964.m3u8
+#EXTINF:-1,USA/CA AUX *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9985.m3u8
+#EXTINF:-1,USA | RAD X HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9993.m3u8
+#EXTINF:-1,USA/CA | m3u8N 1 *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9959.m3u8
+#EXTINF:-1,USA/CA m3u8N 5 *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9962.m3u8
+#EXTINF:-1,USA/CA m3u8N 3 *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9961.m3u8
+#EXTINF:-1,USA/CA m3u8N 2 *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9960.m3u8
+#EXTINF:-1,USA/CA SNWL *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9988.m3u8
+#EXTINF:-1,USA/CA SN HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9981.m3u8
+#EXTINF:-1,USA | NBC K5 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9989.m3u8
+#EXTINF:-1,USA | NBA *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9977.m3u8
+#EXTINF:-1,USA | Music *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9984.m3u8
+#EXTINF:-1,USA | Movie 9 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9974.m3u8
+#EXTINF:-1,USA | Movie 8 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9973.m3u8
+#EXTINF:-1,USA | Movie 7 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9972.m3u8
+#EXTINF:-1,USA | Movie 6 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9971.m3u8
+#EXTINF:-1,USA | Movie 5 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9970.m3u8
+#EXTINF:-1,USA | Movie 4 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9969.m3u8
+#EXTINF:-1,USA | Movie 3 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9968.m3u8
+#EXTINF:-1,USA | Movie 2 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9967.m3u8
+#EXTINF:-1,USA | HIFI HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9958.m3u8
+#EXTINF:-1,USA | H2 HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9957.m3u8
+#EXTINF:-1,USA | FX HD *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9986.m3u8
+#EXTINF:-1,USA | Adult 2 *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9983.m3u8
+#EXTINF:-1,USA | Adult 1 *X*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9982.m3u8
+#EXTINF:-1,USA | ESPN Classics
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9956.m3u8
+#EXTINF:-1,CA | SN PACIFIC HD(L)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8881.m3u8
+#EXTINF:-1,CA | SN ONTARIO HD(L)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8882.m3u8
+#EXTINF:-1,CA | SN ONE HD(L)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8883.m3u8
+#EXTINF:-1,CA | SN EAST HD(L)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8884.m3u8
+#EXTINF:-1,CA | SN 360 HD(L)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8885.m3u8
+#EXTINF:-1,USA | NBCSN MATCH TIME LIVE 1 UHD (16/17SEASON)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8905.m3u8
+#EXTINF:-1,USA | NBCSN MATCH TIME LIVE 2 UHD (16/17SEASON)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8904.m3u8
+#EXTINF:-1,USA | NBCSN MATCH TIME LIVE 3 UHD (16/17SEASON)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8903.m3u8
+#EXTINF:-1,USA | NBCSN MATCH TIME LIVE 4 UHD (16/17SEASON)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8902.m3u8
+#EXTINF:-1,USA | NBCSN MATCH TIME LIVE 5 UHD (16/17SEASON)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8901.m3u8
+#EXTINF:-1,USA | NBCSN MATCH TIME LIVE 6 UHD (16/17SEASON)
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8900.m3u8
+#EXTINF:-1,USA | WWE HD**
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8869.m3u8
+#EXTINF:-1,USA | ESPN 2 HD*****
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9431.m3u8
+#EXTINF:-1,USA | Weather Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7655.m3u8
+#EXTINF:-1,USA | *SHOWTIME HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8705.m3u8
+#EXTINF:-1,USA | *HBO HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8706.m3u8
+#EXTINF:-1,USA | *CNBC HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8702.m3u8
+#EXTINF:-1,USA | The Edge NZ
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9266.m3u8
+#EXTINF:-1,USA | FOX 30
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9244.m3u8
+#EXTINF:-1,USA | OLYMPICS Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9236.m3u8
+#EXTINF:-1,USA | WFTV CH9 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9237.m3u8
+#EXTINF:-1,USA | POKER HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9220.m3u8
+#EXTINF:-1,USA | NASA HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9161.m3u8
+#EXTINF:-1,USA | NFL NOW HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/9014.m3u8
+#EXTINF:-1,USA | *DISNEY HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8701.m3u8
+#EXTINF:-1,USA | Lifetime HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8707.m3u8
+#EXTINF:-1,USA | AFN Sporm3u8 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8668.m3u8
+#EXTINF:-1,USA | AFN Spectrum
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8669.m3u8
+#EXTINF:-1,USA | AFN Prime Pacific
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8671.m3u8
+#EXTINF:-1,USA | AFN Prime Atlantic
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8670.m3u8
+#EXTINF:-1,USA | AFN News
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8673.m3u8
+#EXTINF:-1,USA | AFN Movie
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8672.m3u8
+#EXTINF:-1,USA | PAC-12 Network HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7656.m3u8
+#EXTINF:-1,USA | PAC-12 Mountain HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7657.m3u8
+#EXTINF:-1,USA | PAC-12 Los AngelesHD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7658.m3u8
+#EXTINF:-1,USA | PAC-12 Arizona  HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7660.m3u8
+#EXTINF:-1,USA | NBA TV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7638.m3u8
+#EXTINF:-1,USA | WWE HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3946.m3u8
+#EXTINF:-1,USA | WGN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6828.m3u8
+#EXTINF:-1,USA | Amazing Discoveries HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6135.m3u8
+#EXTINF:-1,USA | Max West
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6178.m3u8
+#EXTINF:-1,USA | Nat Geo Wild
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6184.m3u8
+#EXTINF:-1,USA | TMN 4 MOVIE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6180.m3u8
+#EXTINF:-1,USA | TMN 3 MOVIE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6181.m3u8
+#EXTINF:-1,USA | TMN 2 MOVIE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6182.m3u8
+#EXTINF:-1,USA | TMN 1 MOVIE
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6183.m3u8
+#EXTINF:-1,USA | Showtime West
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6122.m3u8
+#EXTINF:-1,USA | Hilling Channel HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6195.m3u8
+#EXTINF:-1,USA | Travel
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5907.m3u8
+#EXTINF:-1,USA | CNN
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6113.m3u8
+#EXTINF:-1,USA | Poker Central
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4303.m3u8
+#EXTINF:-1,USA | PAC 12 WD HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6702.m3u8
+#EXTINF:-1,USA | YTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6138.m3u8
+#EXTINF:-1,USA | NFL Network HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5895.m3u8
+#EXTINF:-1,USA | NDTV
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1717.m3u8
+#EXTINF:-1,USA:CA | m3u8N 1*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6232.m3u8
+#EXTINF:-1,USA:CA | m3u8N 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/462.m3u8
+#EXTINF:-1,USA:CA | m3u8N 2*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6233.m3u8
+#EXTINF:-1,USA:CA | m3u8N 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/463.m3u8
+#EXTINF:-1,USA:CA | m3u8N 3*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6235.m3u8
+#EXTINF:-1,USA:CA | m3u8N 3 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2371.m3u8
+#EXTINF:-1,USA:CA | m3u8N 4 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2372.m3u8
+#EXTINF:-1,USA:CA | m3u8N 5*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6239.m3u8
+#EXTINF:-1,USA:CA | m3u8N 5 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/2373.m3u8
+#EXTINF:-1,USA:CA | Sporm3u8net 360 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6133.m3u8
+#EXTINF:-1,USA | NBCSN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4593.m3u8
+#EXTINF:-1,USA | NBC Golf HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5732.m3u8
+#EXTINF:-1,USA | Max East
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5977.m3u8
+#EXTINF:-1,USA | HSN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6222.m3u8
+#EXTINF:-1,USA | HSN 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6211.m3u8
+#EXTINF:-1,USA | HIFI
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5982.m3u8
+#EXTINF:-1,USA | HGTV HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5890.m3u8
+#EXTINF:-1,USA | HBO HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5888.m3u8
+#EXTINF:-1,USA | FOOD NETWORK
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6229.m3u8
+#EXTINF:-1,USA | NBC Golf*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6120.m3u8
+#EXTINF:-1,USA | American Country
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6119.m3u8
+#EXTINF:-1,USA | Fox Sporm3u8 2 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1025.m3u8
+#EXTINF:-1,USA | Fox Sporm3u8 1 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/1024.m3u8
+#EXTINF:-1,USA | Fox Life
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6109.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3173.m3u8
+#EXTINF:-1,USA | ESPN Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/3172.m3u8
+#EXTINF:-1,USA | E!
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5683.m3u8
+#EXTINF:-1,USA | Starz Comedy
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5855.m3u8
+#EXTINF:-1,USA | DIY NETWORK
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6177.m3u8
+#EXTINF:-1,USA | DISCOVERY SCI HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6194.m3u8
+#EXTINF:-1,USA | W Net
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6176.m3u8
+#EXTINF:-1,USA | CBSN HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/4596.m3u8
+#EXTINF:-1,USA | FX
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6104.m3u8
+#EXTINF:-1,USA | Bravo HD*
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6193.m3u8
+#EXTINF:-1,USA | Bein Sporm3u8 HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/189.m3u8
+#EXTINF:-1,USA | ABC HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6227.m3u8
+#EXTINF:-1,USA | Discovery Science
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/6102.m3u8
+#EXTINF:-1,USA USA HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7985.m3u8
+#EXTINF:-1,USA TNT HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7986.m3u8
+#EXTINF:-1,USA TBS HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7987.m3u8
+#EXTINF:-1,USA SYFY HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7988.m3u8
+#EXTINF:-1,USA SPIKE HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7989.m3u8
+#EXTINF:-1,USA Discovery HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7990.m3u8
+#EXTINF:-1,USA NICKELODEN HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7991.m3u8
+#EXTINF:-1,USA NBC HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7992.m3u8
+#EXTINF:-1,USA PBS HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7993.m3u8
+#EXTINF:-1,USA Bravo Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7994.m3u8
+#EXTINF:-1,USA LIFETIME HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7995.m3u8
+#EXTINF:-1,USA HISTORY HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7996.m3u8
+#EXTINF:-1,USA FX HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7997.m3u8
+#EXTINF:-1,USA FOX NEWS HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/7999.m3u8
+#EXTINF:-1,USA FXX HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8000.m3u8
+#EXTINF:-1,USA CARTOON NETWORK HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8001.m3u8
+#EXTINF:-1,USA COMEDY CENTRAL HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8003.m3u8
+#EXTINF:-1,USA HALLMARK HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8004.m3u8
+#EXTINF:-1,USA FOX HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8005.m3u8
+#EXTINF:-1,USA DUKE HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8007.m3u8
+#EXTINF:-1,USA AMC HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8009.m3u8
+#EXTINF:-1,USA | A&E HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8011.m3u8
+#EXTINF:-1,USA | ABC NEWS HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8012.m3u8
+#EXTINF:-1,USA | Movie HD Local
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/8013.m3u8
+#EXTINF:-1,USA | A&E HD
+http://62.210.248.96:11000/live/thornton19872016@outlook.com_paidch/zneBzZRecs/5905.m3u8
