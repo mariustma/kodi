@@ -1,87 +1,39 @@
 #EXTM3U
-#EXTINF:0,Acasa
-sop://broker.sopcast.com:3912/149256
-#EXTINF:0,Acasa Gold
-sop://broker.sopcast.com:3912/253471
-#EXTINF:0,Antena 1
-sop://broker.sopcast.com:3912/149257
-#EXTINF:0,Antena 1
-sop://broker.sopcast.com:3912/148083
-#EXTINF:0,Antena Stars
-sop://broker.sopcast.com:3912/148255
-#EXTINF:0,Antena3
-sop://broker.sopcast.com:3912/148084
-#EXTINF:0,Axn White
-sop://broker.sopcast.com:3912/149262
-#EXTINF:0,B1
-sop://151.80.76.190:3912/148087
-#EXTINF:0,Bbc Earth
-sop://broker.sopcast.com:3912/148257
-#EXTINF:0,Boomerang
-sop://broker.sopcast.com:3912/149264
-#EXTINF:0,Canal + Hd Liga
-sop://broker.sopcast.com:3912/258921
-#EXTINF:0,Cartoon Network
-sop://broker.sopcast.com:3912/148254
-#EXTINF:0,Digi Film
-sop://broker.sopcast.com:3912/149253
-#EXTINF:0,Digisport 1
-sop://broker.sopcast.com:3912/148886
-#EXTINF:0,Discovery Channel
-sop://broker.sopcast.com:3912/256241
-#EXTINF:0,Discovery Id
-sop://broker.sopcast.com:3912/256244
-#EXTINF:0,Discovery Science
-sop://broker.sopcast.com:3912/256243
-#EXTINF:0,Disney Channel
-sop://broker.sopcast.com:3912/253031 
-#EXTINF:0,Disney Junior
-sop://broker.sopcast.com:3912/256239
-#EXTINF:0,Diva
-sop://151.80.76.190:3912/253034
-#EXTINF:0,Duck Tv
-sop://broker.sopcast.com:3912/148259
-#EXTINF:0,Euforia
-sop://broker.sopcast.com:3912/253473
-#EXTINF:0,Filmcafe
-sop://broker.sopcast.com:3912/256238
-#EXTINF:0,Fox Sports 2
-sop://124.232.150.188:3920/5730
-#EXTINF:0,Hbo
-sop://broker.sopcast.com:3912/259497
-#EXTINF:0,Kanal D
-sop://broker.sopcast.com:3912/149258
-#EXTINF:0,Megamax
-sop://broker.sopcast.com:3912/256328
-#EXTINF:0,Minimax
-sop://broker.sopcast.com:3912/148263
-#EXTINF:0,Mpfm
-sop://broker.sopcast.com:3912/148261
-#EXTINF:0,Paramount
-sop://broker.sopcast.com:3912/253033
-#EXTINF:0,Prima
-sop://151.80.76.190:3912/148086
-#EXTINF:0,Prima Tv
-sop://broker.sopcast.com:3912/148086
-#EXTINF:0,Pro Cinema
-sop://broker.sopcast.com:3912/148249
-#EXTINF:0,Protv
-sop://broker.sopcast.com:3912/149252
-#EXTINF:0,Protv
-sop://broker.sopcast.com:3912/151380
-#EXTINF:0,Romania Tv
-sop://broker.sopcast.com:3912/148258
-#EXTINF:0,Tlc
-sop://broker.sopcast.com:3912/148256
-#EXTINF:0,Travel Tv
-sop://broker.sopcast.com:3912/148885
-#EXTINF:0,Tv Paprika
-sop://broker.sopcast.com:3912/148881
-#EXTINF:0,Tv1000
-sop://broker.sopcast.com:3912/256337
-#EXTINF:0,Tvr 1
-sop://broker.sopcast.com:3912/148085
-#EXTINF:0,Tvr 1
-sop://151.80.76.190:3912/148085
-#EXTINF:0,Zu Tv
-sop://broker.sopcast.com:3912/148252
+#EXTINF:-1,Acasa TV
+http://89.35.222.169:2013/acasatv
+#EXTINF:-1,Antena 1
+http://89.35.222.169:2011/antena1
+#EXTINF:-1,ITV3
+http://89.35.222.169:2011/antena3
+#EXTINF:-1,TVR1
+http://89.35.222.169:2010/tvr1
+#EXTINF:-1,TVR2
+http://89.35.222.169:2010/tvr2
+#EXTINF:-1,Trinitas
+http://89.35.222.169:2012/trinitas
+#EXTINF:-1,TV Paprika
+http://89.35.222.169:2010/tvpaprika
+#EXTINF:-1,Taraf TV
+http://89.35.222.169:2013/taraftv
+#EXTINF:-1,
+http://89.35.222.169:2011/sportro
+#EXTINF:-1,Realitatea
+http://89.35.222.169:2013/realitatea
+#EXTINF:-1,PRO Cinema
+http://89.35.222.169:2013/procinema
+#EXTINF:-1,National TV
+http://89.35.222.169:2012/nationaltv
+#EXTINF:-1,Look TV
+http://89.35.222.169:2013/looktv
+#EXTINF:-1,Kanal D
+http://89.35.222.169:2011/kanald
+#EXTINF:-1,Favorit TV
+http://89.35.222.169:2012/favorittv
+#EXTINF:-1,Pro TV Timisoara
+http://89.35.222.169:2013/protvtimisoara
+#EXTINF:-1,Digi24 Timisoara
+http://89.35.222.169:2010/digi24timisoara
+#EXTINF:-1,Digi Sport
+http://89.35.222.169:2010/digisport3
+#EXTINF:-1,Euforia Lifestyle
+http://89.35.222.169:2011/euforialifestyle
