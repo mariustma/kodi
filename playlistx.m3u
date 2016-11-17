@@ -39,5 +39,15 @@ http://live.softiptv.com:9900/live/3month/3month/12282.ts
 http://live.softiptv.com:9900/live/3month/3month/12293.ts
 #EXTINF:-1,Girls 4U HD
 http://live.softiptv.com:9900/live/3month/3month/12296.ts
+#EXTINF:-1,CentoxCento TV
+http://live.softiptv.com:9900/live/3month/3month/6829.ts
+#EXTINF:-1,Venus
+http://iptv.monkeycline.com:25461/live/jasne/jasne/2642.ts
+#EXTINF:-1,HUSTLER HD
+http://iptvtt.ddns.net:8000/live/tony/tony/828.ts
+#EXTINF:-1,PLAYBOY TV
+http://iptvtt.ddns.net:8000/live/tony/tony/770.ts
+#EXTINF:-1,HOT
+http://iptvtt.ddns.net:8000/live/tony/tony/720.ts
 #EXTINF:-1,Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w511068766_b1896000.m3u8
