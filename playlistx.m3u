@@ -1,57 +1,47 @@
 #EXTM3U
-#EXTINF:-1,Russian Night
-http://37.195.219.210:81/udp/239.1.6.32:1234
-#EXTINF:-1,Ночной Клуб
-http://37.195.219.210:81/udp/239.1.6.33:1234
-#EXTINF:-1,O-la-la
-http://37.195.219.210:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
-http://37.195.219.210:81/udp/239.1.6.35:1234
-#EXTINF:-1,Blue Hustler
-http://37.195.219.210:81/udp/239.1.6.36:1234
-#EXTINF:-1,Hustler
-http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgXxcXx/935.ts
-#EXTINF:-1,Redlight HD
-http://mainstream.dyndns.tv:8000/live/oADdzK6f4W/UswG3exEgXxcXx/936.ts
-#EXTINF:-1,Playboy TV
-http://37.195.219.210:81/udp/239.1.6.39:1234
-#EXTINF:-1,Brazzers TV
-http://37.195.219.210:81/udp/239.1.6.40:1234
-#EXTINF:-1 tvg-id="e466e9db53830d13c7ebfb3aae9ce223",Bunga Bunga
-http://46.99.163.138:9981/stream/channelid/1542022884?ticket=EC9CEB44DB0D8111C24122FA1431BAB73841091F&profile=pass
-#EXTINF:-1 tvg-id="1ce9327236b59d9c91306bce9369f853",Bizzare
-http://46.99.163.138:9981/stream/channelid/1915939100?ticket=CA451ED82EDA1A9E34582BC26B3C51BEF30E5613&profile=pass
-#EXTINF:-1,Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Satisfaction
-http://198.16.76.122:8000/164/BJDRTISRYHMI48CA
-#EXTINF:-1,SCT
-http://198.16.76.122:8000/167/BJDRTISRYHMI48CA
-#EXTINF:-1,TGirlstv
-http://198.16.76.122:8000/165/BJDRTISRYHMI48CA
-#EXTINF:-1,EXOTICA TV
-http://198.16.76.122:8000/166/BJDRTISRYHMI48CA
-#EXTINF:-1,CENTOXCENTO TV
-http://198.16.76.122:8000/168/BJDRTISRYHMI48CA
-#EXTINF:-1,SESTO SENSO TV
-http://198.16.76.122:8000/169/BJDRTISRYHMI48CA
-#EXTINF:-1,PASSIONXX
-http://198.16.76.122:8000/170/BJDRTISRYHMI48CA
-#EXTINF:-1,PLATINUM
-http://198.16.76.122:8000/171/BJDRTISRYHMI48CA
-#EXTINF:-1,PINK O TV
-http://198.16.76.122:8000/172/BJDRTISRYHMI48CA
-#EXTINF:-1,Candy Man
-http://62.76.26.81:8081/candy/candyman07/playlist.m3u8
-#EXTINF:-1,Candy
-http://62.76.26.81:8081/candy/candy07/playlist.m3u8
-#EXTINF:-1,Eroxxx
-http://live.softiptv.com:9900/live/3m/3m/6823.ts
+#EXTINF:-1,SuperOne
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/5919.ts
+#EXTINF:-1,Sext O Senso
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/5921.ts
+#EXTINF:-1,Pink o
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/5924.ts
+#EXTINF:-1,Brazzers TV Europe
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/5928.ts
+#EXTINF:-1,Private
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/5932.ts
 #EXTINF:-1,DORCEL
-http://live.softiptv.com:9900/live/3m/3m/6827.ts
-#EXTINF:-1,Pink tv Korea
-http://edge2.everyon.tv/etv2sb/phd10062/chunklist_w2100334478.m3u8
-#EXTINF:-1,MIDNIGHT HD TV Korea
-http://edge1.everyon.tv/etv1sb/pld10766/chunklist_w1519122082.m3u8
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/5934.ts
+#EXTINF:-1,REDLIGHT HD
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/5937.ts
+#EXTINF:-1,PLAYBOY TV +18
+http://bur879.com:8000/live/Mete/Kurt/76.ts
+#EXTINF:-1,SEXTV
+http://bur879.com:8000/live/Mete/Kurt/2336.ts
+#EXTINF:-1,SCT1
+http://bur879.com:8000/live/Mete/Kurt/2337.ts
+#EXTINF:-1,REDHOTSEXTU
+http://bur879.com:8000/live/Mete/Kurt/2338.ts
+#EXTINF:-1,PRIVATESPACE
+http://bur879.com:8000/live/Mete/Kurt/2339.ts
+#EXTINF:-1,PENTHOUSEHD
+http://bur879.com:8000/live/Mete/Kurt/2334.ts
+#EXTINF:-1,PASSIONX
+http://bur879.com:8000/live/Mete/Kurt/2342.ts
+#EXTINF:-1,MARCDORCELTV
+http://bur879.com:8000/live/Mete/Kurt/2340.ts
+#EXTINF:-1,DARINGTV
+http://bur879.com:8000/live/Mete/Kurt/2335.ts
+#EXTINF:-1,BABESTATIONXTREME
+http://bur879.com:8000/live/Mete/Kurt/2341.ts 
+#EXTINF:-1,But Go HD
+http://live.softiptv.com:9900/live/3month/3month/12519.ts
+#EXTINF:-1,The O HD
+http://live.softiptv.com:9900/live/3month/3month/12282.ts
+#EXTINF:-1,HOT CLUB
+http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/12343.ts
+#EXTINF:-1,Midnight HD
+http://live.softiptv.com:9900/live/3month/3month/12293.ts
+#EXTINF:-1,Girls 4U HD
+http://live.softiptv.com:9900/live/3month/3month/12296.ts
 #EXTINF:-1,Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1251074404_b596000.m3u8
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w511068766_b1896000.m3u8
